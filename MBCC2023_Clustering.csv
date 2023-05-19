@@ -1,0 +1,787 @@
+,Name,Style,Family_style,Brewery,Alc,IBU,Rating,NFamily_style,clusters
+0,1979 European Cup Final Replay,Sour - Fruited,Sour,Neon Raptor Brewing Co.,7.0,40.0,3.8,34,3
+1,2 Live Gran Cru Greatest Hits Volume 7,Stout - Imperial / Double,Stout,Voodoo Brewing Co.,12.9,35.547770700636946,4.31,35,1
+2,2022 Barrel-Aged Imperial Smells Like Bean Spirit,Stout - Imperial / Double,Stout,Mikerphone Brewing,14.24,35.547770700636946,4.34,35,1
+3,2023 Barrel Aged Elder Beast,Stout - Imperial / Double,Stout,Branch & Bone Artisan Ales,14.0,35.547770700636946,4.22,35,1
+4,2085-1 Bohemian Pilsner,Pilsner - Czech / Bohemian,Pilsner,2085 Brewery,5.5,45.0,3.56,26,0
+5,2085-16.3 SULTANA NEIPA,IPA - New England / Hazy,IPA,2085 Brewery,5.6,20.0,3.86,16,4
+6,2085-19 WEST COAST IPA,IPA - American,IPA,2085 Brewery,6.0,75.0,3.84,16,4
+7,2085-23 TROPICALE,IPA - New England / Hazy,IPA,2085 Brewery,6.0,20.0,3.97,16,4
+8,2085-24 COCONUT COCOA VANILLA STOUT,Stout - Oatmeal,Stout,2085 Brewery,5.5,15.0,3.63,35,2
+9,2085-3 Hoppy Mexican Lager,Lager - Mexican,Lager,2085 Brewery,5.3,11.0,3.61,19,0
+10,2085-6 Irish-Style Dry Stout,Stout - Irish Dry,Stout,2085 Brewery,5.0,30.0,3.69,35,2
+11,3 Deadly Sins,Stout - Imperial / Double Pastry,Stout,3 Sons Brewing Co.,14.0,35.547770700636946,4.57,35,1
+12,3 Virgenes Hopped Amber Ale,Red Ale - American Amber / Red,Red Ale,Cervecería Transpeninsular,5.9,65.0,3.54,29,0
+13,45 Days Rice Lager,Lager - Japanese Rice,Lager,To Øl,5.0,35.547770700636946,3.11,19,0
+14,4th Anniversary,Stout - Imperial / Double,Stout,Funky Fluid,18.0,35.547770700636946,4.17,35,1
+15,5 Year Anniversary Smoothie Sour Ale,Sour - Smoothie / Pastry,Sour,?rpus Brewing Co.,5.0,35.547770700636946,4.35,34,3
+16,519,IPA - American,IPA,Willibald Farm Brewery,6.0,35.547770700636946,3.87,16,4
+17,Abbey Road,Belgian Quadrupel,Belgian,Dois Corvos,11.5,35.547770700636946,4.07,1,1
+18,Abrikoos / Mirabel 21/10,Lambic - Fruit,Lambic,Symbiose Brewing / Blending,6.5,35.547770700636946,4.24,20,2
+19,Absurt,Sour - Fruited,Sour,Flying Couch Brewing,6.0,35.547770700636946,3.66,34,3
+20,Act of Bravery,IPA - Imperial / Double New England / Hazy,IPA,Folkingebrew,8.5,35.547770700636946,4.07,16,4
+21,Affogato,Stout - Imperial / Double Pastry,Stout,Basqueland Brewing,10.4,35.547770700636946,3.99,35,1
+22,After After Party,IPA - Triple,IPA,Willibald Farm Brewery,10.2,35.547770700636946,4.18,16,4
+23,Alba & Petraea Saison,Wild Ale - American,Wild Ale,Odd Breed Wild Ales,5.5,30.0,3.82,39,2
+24,ALE BE BACK,IPA - New England / Hazy,IPA,Flying Couch Brewing,6.2,4.0,3.69,16,4
+25,All,Stout - Imperial / Double,Stout,Lua Brewing,6.9,20.0,3.72,35,2
+26,All Jus’d Up,Farmhouse Ale - Saison,Farmhouse,Carbon Brews,14.1,35.547770700636946,4.66,8,1
+27,All the way down,Farmhouse Ale - Saison,Farmhouse,Wings Brewing Company,6.0,35.547770700636946,4.08,8,2
+28,Ani,Table Beer,Table,Batch Craft Beer & Kolaches,4.0,35.547770700636946,3.44,37,0
+29,Anniversary Brewpub Special,IPA - New England / Hazy,IPA,Sudden Death Brewing Co.,7.0,35.547770700636946,4.07,16,4
+30,Anthology (Blend #3),Wild Ale - American,Wild Ale,Narrow Gauge Brewing Company,7.1,35.547770700636946,4.01,39,2
+31,Ants (Vintage 2022),Stout - Imperial / Double,Stout,Forager Brewery,14.0,35.547770700636946,4.14,35,1
+32,Arcane Rituals (2022),Barleywine - English,Barleywine,Bottle Logic Brewing,12.0,25.0,4.32,0,1
+33,Aretê - Tomo 3,Stout - Imperial / Double,Stout,Spartacus Brewing,15.0,35.547770700636946,4.39,35,1
+34,Ashes & Diamonds: Tawny Port / Raisins / Figs / Dates,Barleywine - American,Barleywine,Funky Fluid,12.0,35.547770700636946,4.05,0,1
+35,Asphodelus,IPA - Imperial / Double New England / Hazy,IPA,18th Street Brewery,7.8,35.547770700636946,3.89,16,4
+36,Assassin Vanilla Bean (2022),Stout - Imperial / Double,Stout,Toppling Goliath Brewing Co.,12.12,35.547770700636946,4.73,35,1
+37,ASSEMBLAGE 1 (2022),Wild Ale - Other,Wild Ale,Popihn Sauvages,6.5,35.547770700636946,4.07,39,2
+38,aU Ungespundet Naturtrüb,Kellerbier / Zwickelbier,Kellerbier,Mahrs Bräu,5.2,25.0,3.57,17,0
+39,aU Ungespundet Naturtrüb,Kellerbier / Zwickelbier,Kellerbier,Mahrs Bräu,5.2,25.0,3.57,17,0
+40,aU Ungespundet Naturtrüb,Kellerbier / Zwickelbier,Kellerbier,Mahrs Bräu,5.2,25.0,3.57,17,0
+41,aU Ungespundet Naturtrüb,Kellerbier / Zwickelbier,Kellerbier,Mahrs Bräu,5.2,25.0,3.57,17,0
+42,Aurora Borealis,Hard Seltzer,Wild Ale,Bottle Logic Brewing,8.0,30.0,3.83,39,2
+43,Aurora Borealis DDH DIPA,IPA - Imperial / Double,IPA,Friends Company,8.0,30.0,3.83,16,4
+44,Aurora Borealis DDH DIPA,IPA - Imperial / Double,IPA,Friends Company,8.0,35.547770700636946,3.9,16,4
+45,Averell Cherry Pit (Stauning Barrel Aged),Porter - Imperial / Double Baltic,Porter,Pleasanti Street,11.0,35.547770700636946,3.77,27,2
+46,BA Centaur Army (2022),Stout - Imperial / Double Pastry,Stout,Neon Raptor Brewing Co.,13.4,35.547770700636946,4.43,35,1
+47,BA Coconut Drip 2022,Stout - Imperial / Double,Stout,Finback Brewery,13.2,35.547770700636946,4.25,35,1
+48,BA Coconut Macaroon,Stout - Imperial / Double,Stout,CLAG Brewing Company,14.0,35.547770700636946,4.53,35,1
+49,Bachus,Grape Ale - Other,Grape,Dois Corvos,7.0,35.547770700636946,3.7,12,2
+50,Baltic Maple Porter,Porter - Baltic,Porter,Enegren Brewing Company,9.1,35.0,3.81,27,2
+51,Bamboo Leaf Infused Lambic,Lambic - Other,Lambic,Oud Beersel,6.8,35.547770700636946,3.8,20,2
+52,Banana Kiwi Pound Cake,Sour - Fruited Gose,Sour,DankHouse Brewing Company,8.5,35.547770700636946,4.12,34,3
+53,Banoffee Bänger,Stout - Imperial / Double,Stout,Põhjala,12.5,30.0,4.03,35,1
+54,Barbarian Lands 2022,Golden Ale - Other,Golden Ale,Crossover Blendery,4.7,35.547770700636946,3.85,11,2
+55,Barbe Rouge Pils,Pilsner - Other,Pilsner,Narrow Gauge Brewing Company,4.8,35.547770700636946,3.76,26,0
+56,Barn Raising,Wild Ale - American,Wild Ale,Funk Factory Geuzeria,7.5,35.547770700636946,3.91,39,2
+57,Barrel Aged Cutting Corners,Barleywine - English,Barleywine,CLAG Brewing Company,13.3,35.547770700636946,4.02,0,1
+58,Barrel Aged Dark Lager,Lager - Dark,Lager,Salikatt,4.7,35.547770700636946,3.9,19,0
+59,Barrel Aged ICON Double Chocolate Peanut Butter,Stout - Imperial / Double Pastry,Stout,Spartacus Brewing,15.0,35.547770700636946,4.43,35,1
+60,Barrel Aged Midnight Toffee Stout,Stout - Imperial / Double Pastry,Stout,Untitled Art,14.9,35.547770700636946,4.36,35,1
+61,Barrel Aged Pastry Chef: Blueberry Maple Muffin,Stout - Imperial / Double,Stout,Funky Fluid,12.0,35.547770700636946,3.86,35,1
+62,Barrel Aged Stout (????????????),Stout - Other,Stout,A.J.I. Beer Inc.,6.5,32.0,3.51,35,0
+63,Barrel Aged Whiffle Bricks,Stout - Imperial / Double,Stout,DankHouse Brewing Company,13.0,35.547770700636946,3.92,35,1
+64,Barrel Works Kentucky Grand Cru,Stout - Imperial / Double,Stout,Basqueland Brewing,12.5,35.547770700636946,4.15,35,1
+65,Barrel Works PX,Stout - Imperial / Double,Stout,Basqueland Brewing,12.6,35.547770700636946,4.0,35,1
+66,Barrel-Aged Shake It Fast,Stout - Pastry,Stout,Mikerphone Brewing,13.7,35.547770700636946,4.23,35,1
+67,Barrel-Aged S'more Cowbell (2022),Stout - Imperial / Double Pastry,Stout,Mikerphone Brewing,14.64,35.547770700636946,4.31,35,1
+68,Basalt,Stout - Imperial / Double,Stout,Neon Raptor Brewing Co.,13.5,35.547770700636946,3.93,35,1
+69,Bash,Porter - Baltic,Porter,Halfway Crooks Beer,7.7,35.547770700636946,3.94,27,2
+70,Batch Pilz,Pilsner - Czech / Bohemian,Pilsner,Batch Craft Beer & Kolaches,4.7,35.547770700636946,3.62,26,0
+71,Be Kind: Quince,Wild Ale - Other,Wild Ale,Métaphore,4.1,35.547770700636946,3.87,39,2
+72,Beer Geek Breakfast (Mikkeller x Minoh),Stout - Imperial / Double Coffee,Stout,Mikkeller,9.0,35.547770700636946,3.71,35,1
+73,Belief,Farmhouse Ale - Saison,Farmhouse,Branch & Bone Artisan Ales,5.8,35.547770700636946,3.9,8,2
+74,Berry Cobbler,Sour - Smoothie / Pastry,Sour,Basqueland Brewing,6.5,35.547770700636946,3.88,34,3
+75,Beste Freunde,Stout - Other,Stout,Schneeeule,9.2,35.547770700636946,3.56,35,1
+76,Beyond the Atmosphere,IPA - Triple New England / Hazy,IPA,Folkingebrew,10.0,35.547770700636946,4.12,16,4
+77,Beyond the Peel,Sour - Fruited,Sour,Flying Couch Brewing,4.5,35.547770700636946,3.72,34,3
+78,Bianca Blueberry Space Jam Lassi Gose,Sour - Fruited Gose,Sour,Omnipollo,6.0,35.547770700636946,4.47,34,3
+79,Bianca Dark Berries Marshmallow Lassi Gose,Sour - Smoothie / Pastry,Sour,Omnipollo,6.0,35.547770700636946,4.38,34,3
+80,Bierra Di Bocce,Pilsner - Italian,Pilsner,Batch Craft Beer & Kolaches,5.3,35.547770700636946,3.58,26,0
+81,Big Black Violet,Sour - Other,Sour,Dugges Bryggeri,6.0,35.547770700636946,3.66,34,3
+82,Big In Japan,Lager - Japanese Rice,Lager,WarPigs Brewpub,4.5,35.547770700636946,3.23,19,0
+83,Bigger Dreams Hazy IPA,IPA - New England / Hazy,IPA,Creature Comforts Brewing Co.,6.8,35.547770700636946,3.9,16,4
+84,Billowing Clouds of Hallertau,Pale Ale - American,Pale,Yokefellow,4.6,35.547770700636946,3.55,25,0
+85,Billowing Clouds of Hallertau,Pale Ale - American,Pale,Yokefellow,4.6,35.547770700636946,3.55,25,0
+86,Billowing Clouds of Hallertau,Pale Ale - American,Pale,Yokefellow,4.6,35.547770700636946,3.55,25,0
+87,Billowing Clouds of Hallertau,Pale Ale - American,Pale,Yokefellow,4.6,35.547770700636946,3.55,25,0
+88,Biparellus,IPA - Black / Cascadian Dark Ale,IPA,Neon Raptor Brewing Co.,6.6,35.547770700636946,3.72,16,4
+89,Bitter,Farmhouse Ale - Bière de Coupage,Farmhouse,Tommie Sjef,7.0,35.547770700636946,4.19,8,2
+90,Black Berry White,Mead - Other,Mead,Superstition Meadery,13.5,35.547770700636946,4.61,21,1
+91,Black Cream,Stout - Imperial / Double,Stout,Amager Bryghus,12.0,35.547770700636946,3.76,35,1
+92,Bleu,Stout - Russian Imperial,Stout,Brasserie de la Sambre,15.2,12.0,4.12,35,1
+93,Blinded By the Lights,IPA - Imperial / Double,IPA,Neon Raptor Brewing Co.,8.0,35.547770700636946,4.05,16,4
+94,Blinded By the Night,Schwarzbier,Schwarzbier,To Øl,5.0,35.547770700636946,3.35,31,0
+95,Blue Berry White,Mead - Other,Mead,Superstition Meadery,13.5,35.547770700636946,4.57,21,1
+96,Blue Roses,Sour - Other,Sour,Sour Cellars,6.2,35.547770700636946,4.02,34,3
+97,Blue Shift,Lambic - Other,Lambic,Pellicle Vergistingen,7.894397435897437,35.547770700636946,3.93,20,2
+98,Bomaye,Stout - Imperial / Double,Stout,Magnanimous Brewing,12.5,35.547770700636946,4.21,35,1
+99,Bombay by Boat,IPA - American,IPA,Moonlight Brewing Company,6.2,35.547770700636946,3.62,16,4
+100,Bone Voyage,IPA - Sour,IPA,Too Old To Die Young Brewing Co.,6.5,25.0,3.53,16,4
+101,Boskeun,Belgian Strong Golden Ale,Belgian,Brouwerij De Dolle Brouwers,9.0,30.0,3.72,1,2
+102,Botanical Stout,Stout - Other,Stout,Buddelship Brauerei,8.9,35.547770700636946,2.99,35,1
+103,Bounteous,Stout - Imperial / Double Pastry,Stout,Moksa Brewing Co,13.5,35.547770700636946,4.53,35,1
+104,Bourbon BA Pistol Juice (2021),Mead - Melomel,Mead,Marlobobo,12.5,35.547770700636946,4.58,21,1
+105,Bourbon Barrel Aged Ego Death W/ Vanilla (2021),Stout - Imperial / Double Pastry,Stout,Resident Culture Brewing Co.,12.5,35.547770700636946,4.56,35,1
+106,Bourbon Saffron,Stout - Imperial / Double,Stout,Dugges Bryggeri,13.0,35.547770700636946,3.99,35,1
+107,BQE (2022 Double Banana Coconut),Stout - Imperial / Double,Stout,Finback Brewery,14.8,35.547770700636946,4.22,35,1
+108,Brain Glow,IPA - New England / Hazy,IPA,Ruse Brewing,7.2,35.547770700636946,4.11,16,4
+109,Bramble,Wild Ale,Wild Ale,Crossover Blendery,5.5,35.547770700636946,3.94,39,2
+110,Brand New Day,Sour - Fruited,Sour,Ten Hands Brewing,5.6,35.547770700636946,3.6,34,3
+111,Brave New World,IPA - Triple New England / Hazy,IPA,Basqueland Brewing,10.0,35.547770700636946,4.02,16,4
+112,Break of Night,Porter - American,Porter,Moonlight Brewing Company,5.6,35.547770700636946,3.78,27,2
+113,Brekologik,Cider - Graff,Cider,Pomologik,6.5,35.547770700636946,3.62,7,0
+114,Bretta Festbier,Wild Ale - American,Wild Ale,Odd Breed Wild Ales,6.0,28.0,3.77,39,2
+115,Brew 3000 (2019),Barleywine - English,Barleywine,Fremont Brewing,13.2,35.547770700636946,4.46,0,1
+116,Brew 4000 (2020),Barleywine - English,Barleywine,Fremont Brewing,12.7,33.0,4.51,0,1
+117,Brewed To Bee Wild,Wild Ale - Other,Wild Ale,Carbon Brews,7.7,15.0,3.64,39,2
+118,Bries,Sour - Fruited,Sour,Nevel Wild Ales,6.1,35.547770700636946,3.84,34,3
+119,Brighter Times,IPA - American,IPA,Stepping Stone Brewing Company,6.1,35.547770700636946,3.62,16,4
+120,Broken Blender (2021),Stout - Imperial / Double,Stout,Bottle Logic Brewing,12.54,25.0,4.26,35,1
+121,Broken Trust,IPA - Imperial / Double,IPA,Too Old To Die Young Brewing Co.,8.0,60.0,3.66,16,4
+122,BROR,IPA - New England / Hazy,IPA,Crooked Moon Brewing,8.0,35.547770700636946,3.56,16,4
+123,Brut,Cider - Dry,Cider,Pomologik,4.5,35.547770700636946,3.58,7,0
+124,Busta Rye,Stout - Imperial / Double,Stout,Mikerphone Brewing,15.63,35.547770700636946,4.19,35,1
+125,Calcifer,IPA - New England / Hazy,IPA,Batch Craft Beer & Kolaches,6.66,35.547770700636946,4.03,16,4
+126,Camino Del Río,IPA - American,IPA,Cervecería Transpeninsular,7.1,65.0,3.67,16,4
+127,Can You Feel the PRRRT Tonight,Sour - Fruited,Sour,Drekker Brewing Company,6.1,35.547770700636946,4.15,34,3
+128,Can't Say No 2 U,Stout - Irish Dry,Stout,Mikkeller Brewpub London,4.6,35.547770700636946,3.54,35,0
+129,Capitão Leitão,IPA - New England / Hazy,IPA,Dois Corvos,6.0,35.547770700636946,3.82,16,4
+130,Captain Muscat 2020,Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.15,20,2
+131,Carretera 3 West Coast IPA,IPA - American,IPA,Cervecería Transpeninsular,6.8,70.0,3.75,16,4
+132,Cashmere Azacca,IPA - New England / Hazy,IPA,Cervesa Espiga,6.3,25.0,3.63,16,4
+133,CASSIS FRAMBOISE (2022),Wild Ale - Other,Wild Ale,Popihn Sauvages,7.0,35.547770700636946,4.05,39,2
+134,Ceréjhe (Etre Gourmet Blend),Farmhouse Ale - Saison,Farmhouse,Brasserie de la Sambre,6.5,35.547770700636946,3.97,8,2
+135,Chance,IPA - Imperial / Double,IPA,Willibald Farm Brewery,8.4,35.547770700636946,4.11,16,4
+136,Chasing Dreams,IPA - Imperial / Double New England / Hazy,IPA,Folkingebrew,8.5,35.547770700636946,4.06,16,4
+137,Chasing Trees: Strain 17,IPA - New England / Hazy,IPA,DankHouse Brewing Company,7.0,35.547770700636946,3.98,16,4
+138,Cherry Sour à La Mode,Sour - Fruited Berliner Weisse,Sour,Untitled Art,6.0,35.547770700636946,4.28,34,3
+139,Cherry White,Mead - Other,Mead,Superstition Meadery,13.5,35.547770700636946,4.33,21,1
+140,Chestnut,Wild Ale - American,Wild Ale,Sour Cellars,7.0,35.547770700636946,3.85,39,2
+141,Christmas Punch Bowl,Sour - Smoothie / Pastry,Sour,Ology Brewing Co,8.0,35.547770700636946,3.94,34,3
+142,Cider / Rode Druif 21/11,Cider - Other Fruit,Cider,Symbiose Brewing / Blending,6.5,35.547770700636946,3.95,7,2
+143,Cider Blend,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.45,7,0
+144,Cider Puur (2022),Cider - Dry,Cider,Pellicle Vergistingen,7.0,35.547770700636946,3.95,7,2
+145,Cider State of Mind,Cider - Dry,Cider,Pomologik,6.9,35.547770700636946,3.63,7,0
+146,Ciderstorm,Cider - Other Fruit,Cider,DUST Blending,6.9,35.547770700636946,3.88,7,2
+147,Citra A,IPA - American,IPA,Ebeltoft Gårdbryggeri,6.5,35.547770700636946,3.62,16,4
+148,Citra B,IPA - American,IPA,Ebeltoft Gårdbryggeri,6.5,35.547770700636946,3.62,16,4
+149,Citranó,Pale Ale - American,Pale,Birra MC - 77,6.0,35.547770700636946,3.89,25,2
+150,Citrus Base - DDH IPA,IPA - American,IPA,Cervesa Espiga,5.5,45.0,3.88,16,4
+151,Classic,Lager - Dortmunder / Export,Lager,Baeren Brauerei,6.0,22.0,3.5,19,0
+152,Cloud 9 - Double Barrel,Stout - Imperial / Double,Stout,Salikatt,14.0,35.547770700636946,4.29,35,1
+153,Cloud City,IPA - New England / Hazy,IPA,Narrow Gauge Brewing Company,7.0,50.0,4.12,16,4
+154,Coco Loco,Stout - Other,Stout,Brasserie de la Sambre,7.1,30.0,3.85,35,2
+155,Cognac Barrel Aged Imperial Stout,Stout - Imperial / Double,Stout,?rpus Brewing Co.,13.0,35.547770700636946,4.22,35,1
+156,Cold Hawaii,IPA - Imperial / Double,IPA,CLAG Brewing Company,8.5,35.547770700636946,4.33,16,4
+157,Coloring Outside the Lines,Wild Ale - American,Wild Ale,Odd Breed Wild Ales,7.5,45.0,3.94,39,2
+158,Colosseum of Life,Wild Ale - Other,Wild Ale,Métaphore,5.6,35.547770700636946,4.11,39,2
+159,Come Together,Cider - Dry,Cider,Pomologik,6.9,35.547770700636946,3.7,7,0
+160,Comfort Zone,IPA - Imperial / Double New England / Hazy,IPA,Salikatt,8.0,35.547770700636946,4.07,16,4
+161,Confidently Incorrect,IPA - Imperial / Double New England / Hazy,IPA,Resident Culture Brewing Co.,8.0,35.547770700636946,3.98,16,4
+162,Conquistadors,IPA - Other,IPA,Vinohradský pivovar,5.0,45.0,3.59,16,4
+163,Contrition,Stout - Imperial / Double,Stout,Lua Brewing,14.3,35.547770700636946,4.42,35,1
+164,Cool-ship Vienna Lager (2023),Lager - Vienna,Lager,Baeren Brauerei,5.5,35.547770700636946,3.38,19,0
+165,Cool-ship Vienna Lager (2023),Lager - Vienna,Lager,Baeren Brauerei,5.5,35.547770700636946,3.38,19,0
+166,Cool-ship Vienna Lager (2023),Lager - Vienna,Lager,Baeren Brauerei,5.5,35.547770700636946,3.38,19,0
+167,Cool-ship Vienna Lager (2023),Lager - Vienna,Lager,Baeren Brauerei,5.5,35.547770700636946,3.38,19,0
+168,Coolship: Drop Ceiling,Wild Ale - American,Wild Ale,Narrow Gauge Brewing Company,6.3,35.547770700636946,4.0,39,2
+169,Copacabango,Mead - Other,Mead,Superstition Meadery,13.5,35.547770700636946,4.08,21,1
+170,Corsair,IPA - American,IPA,Amager Bryghus,7.0,70.0,3.52,16,4
+171,Crazy Rich Lupulins,IPA - Imperial / Double New England / Hazy,IPA,Carbon Brews,8.2,23.0,3.85,16,4
+172,Crimes Against Brewing: Carrot And Walnut Cake,Stout - Imperial / Double Pastry,Stout,Neon Raptor Brewing Co.,10.0,35.547770700636946,3.82,35,1
+173,Crispy As Helles,Lager - Helles,Lager,CLAG Brewing Company,4.9,35.547770700636946,3.89,19,0
+174,Crispy Boi,Pilsner - Other,Pilsner,Birra MC - 77,5.0,35.547770700636946,3.54,26,0
+175,Crooklyn In the House,IPA - Imperial / Double New England / Hazy,IPA,DankHouse Brewing Company,8.0,35.547770700636946,4.13,16,4
+176,Crop Colors: Pink Dawn,Wild Ale - American,Wild Ale,Creature Comforts Brewing Co.,6.0,35.547770700636946,3.79,39,2
+177,Crop Colors: Umbria Red,Wild Ale - American,Wild Ale,Creature Comforts Brewing Co.,7.0,35.547770700636946,3.81,39,2
+178,Cryo Bears,IPA - Imperial / Double,IPA,3 Sons Brewing Co.,8.5,35.547770700636946,4.0,16,4
+179,Cubed Pepper Infused Lambic,Lambic - Traditional,Lambic,Oud Beersel,6.8,35.547770700636946,3.66,20,2
+180,Cuvée (2022),Wild Ale - Other,Wild Ale,Tommie Sjef,7.4,35.547770700636946,4.23,39,2
+181,Daisy,Wild Ale - American,Wild Ale,Sour Cellars,6.1,35.547770700636946,3.96,39,2
+182,Damascene,Wild Ale - Other,Wild Ale,Crossover Blendery,6.5,35.547770700636946,3.93,39,2
+183,Dark Rituals (2021),Strong Ale - American,Strong Ale,Bottle Logic Brewing,13.13,40.0,4.36,36,1
+184,Dark Soul - Rum & Tonka Bean Barrel,Stout - Imperial / Double,Stout,Carbon Brews,10.5,68.0,3.74,35,1
+185,Darkest Hour,Stout - Imperial / Double,Stout,Folkingebrew,11.0,35.547770700636946,3.96,35,1
+186,Darth Czech,Lager - Dark,Lager,Batch Craft Beer & Kolaches,4.5,35.547770700636946,3.44,19,0
+187,Dat Cookie Dough Though,Stout - Imperial / Double,Stout,Recycled Brewing Company,9.5,35.547770700636946,3.84,35,1
+188,Death & Taxes,Lager - Dark,Lager,Moonlight Brewing Company,5.3,35.547770700636946,3.85,19,0
+189,Death Nectar,Stout - Imperial / Double,Stout,3 Sons Brewing Co.,14.4,35.547770700636946,4.32,35,1
+190,Deep Fried,IPA - New England / Hazy,IPA,ÅBEN,6.0,35.547770700636946,3.7,16,4
+191,Delia,Pilsner - Other,Pilsner,Birrificio Italiano,4.3,35.547770700636946,3.53,26,0
+192,Deluxe,IPA - Imperial / Double New England / Hazy,IPA,Dugges Bryggeri,8.0,35.547770700636946,3.8,16,4
+193,Demonia Barrel Blend #1,Stout - Imperial / Double,Stout,Seven Island Brewery,12.1,35.547770700636946,3.82,35,1
+194,Deos (Beast Mode Series),Stout - Imperial / Double Coffee,Stout,Seven Island Brewery,11.5,45.0,4.03,35,1
+195,Descent,Stout - Russian Imperial,Stout,Halfway Crooks Beer,13.0,35.547770700636946,4.12,35,1
+196,Destination: Death Or Better Days,Wild Ale - American,Wild Ale,Dekkera Brewing & Blending,6.0,35.547770700636946,3.84,39,2
+197,Destroyer Cognac,Barleywine - Other,Barleywine,Lua Brewing,15.0,35.547770700636946,4.36,0,1
+198,Det Er Røjk! 2021,Mead - Cyser,Mead,The Attic Meadery,15.0,35.547770700636946,3.84,21,1
+199,Dim Lights,Smoked Beer,Smoked,Moonlight Brewing Company,6.3,35.547770700636946,3.73,33,2
+200,Dionysus,Grape Ale - Other,Grape,Dois Corvos,7.0,35.547770700636946,3.61,12,0
+201,DIPA DDH - Citra / Mosaic,IPA - Imperial / Double New England / Hazy,IPA,Popihn,8.0,35.547770700636946,4.03,16,4
+202,Does Anyone Have Any Questions?,Hard Seltzer,Hard Seltzer,Resident Culture Brewing Co.,5.0,35.547770700636946,3.4,14,0
+203,Domestic,Lager - American Light,Lager,Outer Range Brewing Co.,4.2,35.547770700636946,3.94,19,0
+204,Domesticated Saison,Wild Ale - American,Wild Ale,Odd Breed Wild Ales,6.8,30.0,3.64,39,2
+205,Doom Sauce,Stout - Imperial / Double Pastry,Stout,WarPigs Brewpub,10.0,35.547770700636946,4.1,35,1
+206,Dopealicious,IPA - New England / Hazy,IPA,3 Sons Brewing Co.,7.2,70.0,4.03,16,4
+207,Doppelhawk,Schwarzbier,Schwarzbier,Enegren Brewing Company,8.0,22.0,3.93,31,2
+208,Double Agent,IPA - Imperial / Double New England / Hazy,IPA,Ten Hands Brewing,8.0,45.0,3.77,16,4
+209,Double Barrel Bang This,Stout - Imperial / Double Pastry,Stout,CLAG Brewing Company,14.0,35.547770700636946,4.63,35,1
+210,Double Barrel Constellar,Barleywine - English,Barleywine,Pleasanti Street,15.0,35.547770700636946,4.35,0,1
+211,Double Barry,Farmhouse Ale - Saison,Farmhouse,DUST Blending,6.2,35.547770700636946,3.92,8,2
+212,Double Bodycheck,IPA - Imperial / Double New England / Hazy,IPA,Sudden Death Brewing Co.,8.5,35.547770700636946,4.14,16,4
+213,Double Dry Hopped (DDH) Sparkle Motion,Pale Ale - New England / Hazy,Pale,Narrow Gauge Brewing Company,6.0,30.0,4.11,25,2
+214,Double Dry Hopped Fallen Flag,IPA - New England / Hazy,IPA,Narrow Gauge Brewing Company,7.0,50.0,4.26,16,4
+215,Double Rigger Stout (Nitro),Stout - Imperial / Double,Stout,Pleasanti Street,11.5,35.547770700636946,3.9,35,1
+216,Double Smoojee Dark Berry,Sour - Smoothie / Pastry,Sour,Friends Company,8.0,35.547770700636946,4.13,34,3
+217,Double Smoojee Dark Berry,Sour - Smoothie / Pastry,Sour,Friends Company,8.0,35.547770700636946,4.13,34,3
+218,Double Up Buttercup,IPA - Imperial / Double,IPA,Pulpit Rock Brewing Company,7.7,35.547770700636946,4.11,16,4
+219,Dr. No,Lambic - Gueuze,Lambic,Bofkont,6.0,35.547770700636946,4.28,20,2
+220,Dream Smoojee Strawberry & Blackcurrant,Sour - Smoothie / Pastry,Sour,Friends Company,4.7,35.547770700636946,3.81,34,3
+221,Dream Walking,Stout - Imperial / Double,Stout,Recycled Brewing Company,9.5,35.547770700636946,3.78,35,1
+222,DRESS SEXY AT MY FUNERAL,Stout - Imperial / Double,Stout,Pomona Island Brew Co.,12.0,35.547770700636946,3.83,35,1
+223,Druif,Wild Ale - Other,Wild Ale,Tommie Sjef,7.5,35.547770700636946,4.12,39,2
+224,Dry-Hop (2021),Lambic - Traditional,Lambic,Bofkont,6.0,35.547770700636946,4.08,20,2
+225,Dry-hopped Meerts (Amarillo + Nelson Sauvin),Wild Ale - Other,Wild Ale,Funk Factory Geuzeria,4.0,35.547770700636946,3.89,39,2
+226,Dysphoria,IPA - New England / Hazy,IPA,Crooked Moon Brewing,6.8,35.547770700636946,3.34,16,4
+227,EASY,Pale Ale - American,Pale,LERVIG,4.7,30.0,3.47,25,0
+228,Easy Jeff,IPA - Session,IPA,To Øl CPH,4.5,30.0,3.67,16,4
+229,Echo,Wild Ale - Other,Wild Ale,Nevel Wild Ales,5.0,35.547770700636946,3.87,39,2
+230,Echte Liebe,Lager - Pale,Lager,Ebeltoft Gårdbryggeri,5.3,35.547770700636946,3.45,19,0
+231,Echte Liebe,Lager - Other,Lager,Mikkeller Brewpub London,5.8,30.0,3.36,19,0
+232,Edel-Pils,Pilsner - German,Pilsner,Enegren Brewing Company,4.8,35.0,3.84,26,0
+233,Ein Brett Vor Dem Kopf Haben,Sour - Berliner Weisse,Sour,Birra MC - 77,4.7,35.547770700636946,3.54,34,3
+234,Elderflower Power,Lambic - Other,Lambic,Pellicle Vergistingen,7.894397435897437,35.547770700636946,3.96,20,2
+235,Elise,Sour - Berliner Weisse,Sour,Schneeeule,5.2,35.547770700636946,3.62,34,3
+236,Emblem of the Idol,IPA - Imperial / Double New England / Hazy,IPA,Spartacus Brewing,8.0,42.0,4.05,16,4
+237,Empty Calories,Lager - American Light,Lager,Voodoo Brewing Co.,4.7,35.547770700636946,3.38,19,0
+238,Enigma,Lambic - Other,Lambic,Pellicle Vergistingen,7.894397435897437,35.547770700636946,3.93,20,2
+239,Enn Barrel (Cellar Series),Stout - Imperial / Double Coffee,Stout,Põhjala,12.0,25.0,3.98,35,1
+240,Eric's Morning Walk,Stout - Imperial / Double,Stout,Recycled Brewing Company,9.5,35.547770700636946,3.8,35,1
+241,Etera - Tomo 5,Stout - Imperial / Double,Stout,Spartacus Brewing,15.0,35.547770700636946,4.47,35,1
+242,Eunoia Batch 13,Stout - Imperial / Double Coffee,Stout,Phase Three Brewing,13.4,35.547770700636946,4.4,35,1
+243,Eunoia Batch 7 (Stroopwafel),Stout - Imperial / Double,Stout,Phase Three Brewing,15.0,35.547770700636946,4.54,35,1
+244,Expedition,Sour - Fruited,Sour,Ten Hands Brewing,5.6,35.547770700636946,3.66,34,3
+245,Extra Hop,Pilsner - German,Pilsner,Birrificio Italiano,4.8,35.547770700636946,3.57,26,0
+246,Eyewinker,Stout - Imperial / Double,Stout,Amager Bryghus,11.0,35.547770700636946,3.68,35,1
+247,Fakk Alt!,IPA - New England / Hazy,IPA,Brewski,6.5,35.547770700636946,3.45,16,4
+248,Family Tree IV,Sour - Fruited Berliner Weisse,Sour,Too Old To Die Young Brewing Co.,3.5,35.547770700636946,3.58,34,3
+249,Farina,Kölsch,Kolsch,Halfway Crooks Beer,4.8,35.547770700636946,3.87,18,2
+250,Feast Till the Cows Come Home,Stout - Milk / Sweet,Stout,Sudden Death Brewing Co.,10.5,35.547770700636946,3.9,35,1
+251,Fender-Bender,IPA - Imperial / Double New England / Hazy,IPA,Salikatt,8.0,35.547770700636946,4.27,16,4
+252,Ferskva,Fruit Beer,Fruit,OY Brewing,5.6,10.0,3.42,9,0
+253,Fields of Tall Grass,IPA - Imperial / Double,IPA,Finback Brewery,8.0,35.547770700636946,4.23,16,4
+254,File Transfer Protocol,IPA - New Zealand,IPA,Halfway Crooks Beer,7.0,35.547770700636946,3.84,16,4
+255,Final Form: Optimization (Tawny Port/VSOP Cognac),Barleywine - English,Barleywine,Moksa Brewing Co,14.7,35.547770700636946,4.38,0,1
+256,Fire  Skulls & Money,IPA - Imperial / Double New England / Hazy,IPA,Toppling Goliath Brewing Co.,7.8,50.0,4.21,16,4
+257,First Step,IPA - New England / Hazy,IPA,Stepping Stone Brewing Company,5.8,35.547770700636946,3.77,16,4
+258,Flaami Öö (Cellar Series),Strong Ale - Other,Strong Ale,Põhjala,12.0,35.0,4.01,36,1
+259,Flames in a Box,IPA - New England / Hazy,IPA,FrauGruber Brewing,6.5,35.547770700636946,3.88,16,4
+260,Flassan,Farmhouse Ale - Saison,Farmhouse,Brasserie de la Sambre,7.8,25.0,4.18,8,2
+261,Flintegata 3.0,Pale Ale - New England / Hazy,Pale,Salikatt,4.7,35.547770700636946,3.81,25,0
+262,FloMO Pils,Pilsner - Czech / Bohemian,Pilsner,Narrow Gauge Brewing Company,5.6,35.0,3.8,26,0
+263,Florida Seltzer Navel Orange Yuzu,Hard Seltzer,Hard Seltzer,Untitled Art,5.0,35.547770700636946,3.95,14,2
+264,Flos Alba // Albicocche,Sour - Fruited Berliner Weisse,Sour,Klanbarrique,5.7,35.547770700636946,3.74,34,3
+265,FOCOCO (2022),Stout - Imperial / Double,Stout,Bottle Logic Brewing,13.0,30.0,4.45,35,1
+266,Fogram,Sour - Fruited,Sour,Sour Cellars,7.5,35.547770700636946,3.79,34,3
+267,Forever Yours,Lager - IPL (India Pale Lager),Lager,Too Old To Die Young Brewing Co.,6.0,45.0,3.59,19,0
+268,Fostering Divine Culture,Stout - Imperial / Double Pastry,Stout,Resident Culture Brewing Co.,13.0,35.547770700636946,4.29,35,1
+269,Framboos / Kers / Braam 21/08,Lambic - Fruit,Lambic,Symbiose Brewing / Blending,6.5,35.547770700636946,4.29,20,2
+270,Fraugruberlicious (Strawberry/Pineapple),Sour - Fruited,Sour,FrauGruber Brewing,5.8,35.547770700636946,3.71,34,3
+271,Friendly,Sour - Fruited Berliner Weisse,Sour,Stepping Stone Brewing Company,6.0,35.547770700636946,3.76,34,3
+272,From Canada With Love (2019),Lambic - Gueuze,Lambic,Bofkont,6.0,35.547770700636946,4.06,20,2
+273,From One Dog To Another (2021),Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.22,20,2
+274,From the Vault (2022),Stout - Imperial / Double,Stout,Fremont Brewing,13.5,50.0,4.27,35,1
+275,Frost Giant,Stout - Imperial / Double,Stout,FrauGruber Brewing,14.3,35.547770700636946,3.71,35,1
+276,FULL THROTTLE,IPA - New England / Hazy,IPA,Flying Couch Brewing,6.7,6.0,3.66,16,4
+277,Fun-Fossil Fool (2022),Mead - Melomel,Mead,Marlobobo,10.0,35.547770700636946,4.43,21,1
+278,Funky Rich Lupulins V4.0,IPA - Brett,IPA,Carbon Brews,8.0,20.0,3.62,16,4
+279,Gaffel Kölsch,Kölsch,Kolsch,Privatbrauerei Gaffel Becker,4.8,20.0,3.35,18,0
+280,Gaffel Wiess,Kölsch,Kolsch,Privatbrauerei Gaffel Becker,4.9,11.0,3.39,18,0
+281,Gelato: Blue Velvet,Sour - Smoothie / Pastry,Sour,Funky Fluid,5.8,35.547770700636946,4.16,34,3
+282,Geléhallon Smoojee,Sour - Smoothie / Pastry,Sour,Friends Company,4.7,35.547770700636946,3.76,34,3
+283,Geo,Pilsner - Other,Pilsner,Phase Three Brewing,5.5,35.547770700636946,3.87,26,0
+284,Ghost Coast,IPA - American,IPA,Ruse Brewing,7.2,35.547770700636946,3.91,16,4
+285,Gin BA Bumfuzzle (2022),Mead - Melomel,Mead,Marlobobo,10.0,35.547770700636946,4.44,21,1
+286,Glen Fyne Select (2022),Mead - Melomel,Mead,Marlobobo,14.0,35.547770700636946,4.54,21,1
+287,Glu Glu,Kölsch,Kolsch,Birra MC - 77,5.0,35.547770700636946,3.67,18,0
+288,Goed Cold Bier,Pilsner - Other,Pilsner,Creature Comforts Brewing Co.,5.1,35.547770700636946,3.68,26,0
+289,Golden Pilsner,Pilsner - Czech / Bohemian,Pilsner,Fremont Brewing,4.5,20.0,3.65,26,0
+290,Good In the Woods,IPA - American,IPA,Outer Range Brewing Co.,7.1,35.547770700636946,3.94,16,4
+291,Good Morning Captain,IPA - Imperial / Double,IPA,Pomona Island Brew Co.,8.5,35.547770700636946,4.18,16,4
+292,Gose,Sour - Traditional Gose,Sour,Fremont Brewing,4.0,35.547770700636946,3.79,34,3
+293,Gravenstein (Ice Ice Baby),Cider - Ice / Applewine,Cider,Pomologik,7.0,35.547770700636946,3.81,7,2
+294,Grim Reefer,IPA - Triple New England / Hazy,IPA,DankHouse Brewing Company,10.0,35.547770700636946,4.09,16,4
+295,Groseille de Kvasir 2021,Mead - Melomel,Mead,The Attic Meadery,13.0,35.547770700636946,4.12,21,1
+296,Group Dynamic,Gluten-Free,Gluten-Free,LERVIG,7.7,35.547770700636946,3.77,10,2
+297,Gullhornid,Pale Ale - American,Pale,OY Brewing,5.5,35.547770700636946,3.23,25,0
+298,Hazelnut Butter Cup Pastry Stout,Stout - Imperial / Double Pastry,Stout,Untitled Art,11.7,35.547770700636946,4.17,35,1
+299,Hazy,IPA - New England / Hazy,IPA,Dugges Bryggeri,6.5,35.547770700636946,3.71,16,4
+300,Hazy Sunshine,IPA - Imperial / Double New England / Hazy,IPA,Mikkeller Brewpub London,8.4,35.547770700636946,3.91,16,4
+301,Hazy Up Your Ass,IPA - Triple New England / Hazy,IPA,Magnanimous Brewing,10.5,35.547770700636946,4.13,16,4
+302,Heavenly Slumber,Stout - Imperial / Double,Stout,3 Sons Brewing Co.,14.8,35.547770700636946,4.62,35,1
+303,Hella Cup of Nuts,Stout - Pastry,Stout,18th Street Brewery,10.0,35.547770700636946,3.81,35,1
+304,Helles,Lager - Helles,Lager,Mahrs Bräu,5.3,35.547770700636946,3.52,19,0
+305,Helles,Lager - Helles,Lager,FrauGruber Brewing,4.8,35.547770700636946,3.5,19,0
+306,Helles Amarillo Tardif de Bourgogne,Lager - Helles,Lager,Buddelship Brauerei,4.9,19.0,3.53,19,0
+307,Here And Now: Cherry,Wild Ale - American,Wild Ale,Métaphore,7.5,35.547770700636946,4.1,39,2
+308,Herr Ober! Noch Ein Cottbuser Bier!,Historical Beer - Kottbusser,Historical,Sudden Death Brewing Co.,6.3,35.547770700636946,3.65,15,0
+309,Hey Mambo,Pilsner - Italian,Pilsner,Mikerphone Brewing,5.0,35.547770700636946,3.71,26,0
+310,High Street Lager,Lager - Vienna,Lager,Enegren Brewing Company,5.4,30.0,3.75,19,0
+311,Honey Isle,Lambic - Fruit,Lambic,Crossover Blendery,5.5,35.547770700636946,3.9,20,2
+312,Honeymoon (2022),Lambic - Other,Lambic,Bofkont,6.0,35.547770700636946,4.12,20,2
+313,Horizontal Refreshment,IPA - Imperial / Double,IPA,Recycled Brewing Company,8.0,35.547770700636946,3.64,16,4
+314,House Party,Stout - Imperial / Double Pastry,Stout,18th Street Brewery,10.0,35.547770700636946,3.74,35,1
+315,Howling at the Moon (2022),Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.16,20,2
+316,Human Potential,IPA - Triple New England / Hazy,IPA,Resident Culture Brewing Co.,10.3,35.547770700636946,4.25,16,4
+317,Hybrid 02,Grape Ale - Other,Grape,Dugges Bryggeri,11.5,35.547770700636946,3.5,12,0
+318,Hyllipan Grapefrukt,IPA - American,IPA,Hyllie Bryggeri,6.5,35.547770700636946,3.62,16,4
+319,I Can’t Fight This Feeling Anymore,IPA - Imperial / Double,IPA,Creature Comforts Brewing Co.,8.0,35.547770700636946,4.1,16,4
+320,IBUKI VIII,IPA - Sour,IPA,Pomona Island Brew Co.,6.0,35.547770700636946,3.91,16,4
+321,Identical Truths,IPA - Imperial / Double New England / Hazy,IPA,Ruse Brewing,8.0,35.547770700636946,4.13,16,4
+322,Idjit!,Stout - Imperial / Double,Stout,Dugges Bryggeri,9.5,35.547770700636946,3.87,35,1
+323,If Whales Could Fly,IPA - Imperial / Double,IPA,Finback Brewery,9.0,35.547770700636946,4.14,16,4
+324,Illusion of Light,Stout - Imperial / Double,Stout,TapRoom Beer Company,12.0,35.547770700636946,4.2,35,1
+325,I'M,Grape Ale - Italian,Grape,Klanbarrique,7.1,35.547770700636946,3.88,12,2
+326,Imaginary Lines,IPA - New England / Hazy,IPA,Ruse Brewing,6.9,35.547770700636946,4.11,16,4
+327,Imperial Italian Pilsner,Pilsner - Italian,Pilsner,OY Brewing,7.7,35.547770700636946,3.18,26,0
+328,In the Steep,IPA - New England / Hazy,IPA,Outer Range Brewing Co.,6.7,35.547770700636946,4.13,16,4
+329,Internal,Pilsner - German,Pilsner,Crooked Moon Brewing,4.5,35.547770700636946,3.98,26,0
+330,Internal Eye Roll,Sour - Fruited,Sour,Recycled Brewing Company,4.7,35.547770700636946,3.16,34,3
+331,IPL El Dorado Azacca,Lager - IPL (India Pale Lager),Lager,Buddelship Brauerei,6.0,35.547770700636946,3.57,19,0
+332,Irrefutable Logic,Stout - Imperial / Double,Stout,Ology Brewing Co,12.5,35.547770700636946,4.22,35,1
+333,Irrefutable Logic: Nutty List,Stout - Imperial / Double Pastry,Stout,Ology Brewing Co,12.0,35.547770700636946,4.37,35,1
+334,Island Crush #1 KUMQUAT,Hard Seltzer,Hard Seltzer,LIME,6.0,35.547770700636946,4.18,14,2
+335,Island Crush #2 PINEAPPLE,Hard Seltzer,Hard Seltzer,YUZU,6.0,35.547770700636946,4.0,14,2
+336,It's Alive,Brett Beer,Brett,Carbon Brews,7.5,8.0,3.65,5,0
+337,Jeepney,Sour - Fruited,Sour,Basqueland Brewing,6.1,35.547770700636946,3.79,34,3
+338,Jubel,Wild Ale - Other,Wild Ale,Nevel Wild Ales,6.2,35.547770700636946,3.71,39,2
+339,Juice Lord,IPA - New England / Hazy,IPA,Magnanimous Brewing,7.5,45.0,4.08,16,4
+340,Juicy Secret,IPA - Imperial / Double New England / Hazy,IPA,Magnanimous Brewing,8.5,35.547770700636946,4.1,16,4
+341,Just Passing Through Gose,Sour - Fruited Gose,Sour,Outer Range Brewing Co.,4.5,35.547770700636946,3.7,34,3
+342,Keep Up the Vibes,IPA - New England / Hazy,IPA,TapRoom Beer Company,7.0,35.547770700636946,3.67,16,4
+343,Kennedy,Sour - Berliner Weisse,Sour,Schneeeule,3.0,35.547770700636946,3.54,34,3
+344,Kerspruim Saison 21/05,Farmhouse Ale - Saison,Farmhouse,Symbiose Brewing / Blending,6.5,35.547770700636946,4.03,8,2
+345,Kind of Blue,Lager - Mexican,Lager,TapRoom Beer Company,5.4,35.547770700636946,3.35,19,0
+346,Kind of Blue,Lager - Mexican,Lager,TapRoom Beer Company,5.4,35.547770700636946,3.35,19,0
+347,King Sue,IPA - Imperial / Double New England / Hazy,IPA,Toppling Goliath Brewing Co.,7.8,10.0,4.32,16,4
+348,Kjaftæði,Pale Ale - New England / Hazy,Pale,Crooked Moon Brewing,4.7,35.547770700636946,3.52,25,0
+349,Kölner Saft,Kölsch,Kolsch,Amager Bryghus,4.7,35.547770700636946,3.0,18,0
+350,Krispy Kiwi,Pilsner - Other,Pilsner,Forager Brewery,4.8,35.547770700636946,3.58,26,0
+351,Kutfruit (2022),Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.13,20,2
+352,LA Commemorative Stout,Stout - Imperial / Double,Stout,Creature Comforts Brewing Co.,13.7,35.547770700636946,4.08,35,1
+353,La Tavolo Della Mamma,Sour - Berliner Weisse,Sour,Schneeeule,4.2,35.547770700636946,3.6,34,3
+354,Lacto-Kooler (Green),Sour - Fruited Berliner Weisse,Sour,Voodoo Brewing Co.,5.5,35.547770700636946,4.07,34,3
+355,Lagertha,Pilsner - Other,Pilsner,Enegren Brewing Company,5.0,45.0,3.7,26,0
+356,LASSI GOSE - Cassis / Fleur De Sel,Sour - Fruited Gose,Sour,Popihn,6.0,35.547770700636946,3.89,34,3
+357,Lava Blast Cannon,Sour - Fruited,Sour,Sudden Death Brewing Co.,8.0,35.547770700636946,4.31,34,3
+358,Le MORRIS (Gamay),Farmhouse Ale - Saison,Farmhouse,DUST Blending,8.1,35.547770700636946,4.02,8,2
+359,Le MORRIS (Riesling),Farmhouse Ale - Saison,Farmhouse,DUST Blending,8.7,35.547770700636946,4.0,8,2
+360,LemLim Slushhhhh,Sour - Fruited Berliner Weisse,Sour,Ology Brewing Co,6.0,35.547770700636946,3.73,34,3
+361,Less Sugars More Fun,IPA - Brut,IPA,Vinohradský pivovar,5.2,40.0,3.66,16,4
+362,Let´s Order A Pizza (2023),IPA - Triple New England / Hazy,IPA,Sudden Death Brewing Co.,9.5,35.547770700636946,4.2,16,4
+363,Lichtervelds Blond,Belgian Strong Golden Ale,Belgian,Brouwerij De Dolle Brouwers,9.0,35.547770700636946,3.56,1,0
+364,Limbes,Farmhouse Ale - Saison,Farmhouse,Brasserie de la Sambre,5.0,35.547770700636946,3.93,8,2
+365,Little Luxuries (2023),Stout - Imperial / Double Pastry,Stout,Forager Brewery,13.8,35.547770700636946,4.44,35,1
+366,Live By the Sun And the Moon,Table Beer,Table,Finback Brewery,7.5,35.547770700636946,3.83,37,2
+367,Looking For More,IPA - Triple,IPA,Cervesa Espiga,9.5,60.0,4.0,16,4
+368,Lost All Reason - Citra Cryo And El Dorado Edition,IPA - Imperial / Double New England / Hazy,IPA,To Øl CPH,8.0,50.0,3.89,16,4
+369,Lost Horizon Kriek,Lambic - Kriek,Lambic,Buddelship Brauerei,6.7,35.547770700636946,3.63,20,2
+370,Lost In Confusion,IPA - Cold,IPA,FrauGruber Brewing,6.2,35.547770700636946,3.63,16,4
+371,Loup Et Renard Saison,Farmhouse Ale - Saison,Farmhouse,Odd Breed Wild Ales,6.8,35.0,3.91,8,2
+372,Lucrum Maximus,Stout - Imperial / Double,Stout,Magnanimous Brewing,10.5,35.547770700636946,4.21,35,1
+373,Lush IPA,IPA - American,IPA,Fremont Brewing,7.0,80.0,3.9,16,4
+374,Magic Cookie,Stout - Imperial / Double Pastry,Stout,Cervesa Espiga,10.5,35.547770700636946,4.07,35,1
+375,Maibock Saphir Petit Blanc,Bock - Hell / Maibock / Lentebock,Bock,Buddelship Brauerei,7.1,35.547770700636946,3.55,4,0
+376,Majbock,Bock - Hell / Maibock / Lentebock,Bock,Ebeltoft Gårdbryggeri,6.9,35.547770700636946,3.27,4,0
+377,Malmadura,Grape Ale - Italian,Grape,Klanbarrique,3.6,35.547770700636946,3.75,12,0
+378,Malmö I Love You 2023,Sour - Fruited,Sour,Hyllie Bryggeri,5.0,35.547770700636946,3.55,34,3
+379,Mango White,Mead - Other,Mead,Superstition Meadery,13.5,35.547770700636946,4.39,21,1
+380,Mango x Apricot x Almond Smoothie Sour Ale,Sour - Smoothie / Pastry,Sour,?rpus Brewing Co.,5.0,35.547770700636946,4.24,34,3
+381,Mango x Cherry x Vanilla Smoothie Sour Ale,Sour - Smoothie / Pastry,Sour,?rpus Brewing Co.,5.0,35.547770700636946,4.3,34,3
+382,Mango x Guava x Apricot x Vanilla Smoothie Sour Ale,Sour - Smoothie / Pastry,Sour,?rpus Brewing Co.,5.0,35.547770700636946,4.35,34,3
+383,Mash Test Yummies Bourbon BA 2022,Stout - Imperial / Double Pastry,Stout,To Øl,13.6,35.547770700636946,4.2,35,1
+384,Master of Hazies,IPA - Imperial / Double New England / Hazy,IPA,Magnanimous Brewing,8.5,35.547770700636946,4.23,16,4
+385,Materialismo,IPA - Imperial / Double New England / Hazy,IPA,WarPigs Brewpub,8.0,35.547770700636946,3.77,16,4
+386,Meander,Wild Ale - Other,Wild Ale,Nevel Wild Ales,6.1,35.547770700636946,3.78,39,2
+387,Meat Jelly,Stout - Imperial / Double,Stout,WarPigs Brewpub,10.9,35.547770700636946,4.09,35,1
+388,Mega Fresh - PiMP Pineapple Mango Passionfruit,Sour - Smoothie / Pastry,Sour,Juicy Brewing Co,6.0,35.547770700636946,4.43,34,3
+389,Mega Fruit - TBC Tripple Berry Choco,Sour - Smoothie / Pastry,Sour,Juicy Brewing Co,6.0,35.547770700636946,4.29,34,3
+390,Mega Latte - ML - Mocha Latte,Stout - Imperial / Double Pastry,Stout,Juicy Brewing Co,10.0,35.547770700636946,4.01,35,1
+391,Mega Mane,IPA - New England / Hazy,IPA,DankHouse Brewing Company,7.4,35.547770700636946,4.09,16,4
+392,Megablend 04 blend series 20/16,Lambic - Gueuze,Lambic,Symbiose Brewing / Blending,5.6,35.547770700636946,4.12,20,2
+393,Memory,Farmhouse Ale - Saison,Farmhouse,Halfway Crooks Beer,12.0,35.547770700636946,4.32,8,1
+394,Memory & Perception,Stout - Imperial / Double Pastry,Stout,Finback Brewery,7.1,35.547770700636946,3.99,35,2
+395,Memory Pils,Pilsner - Other,Pilsner,CLAG Brewing Company,5.5,35.547770700636946,3.81,26,0
+396,Merci Michel!,Farmhouse Ale - Saison,Farmhouse,DUST Blending,8.3,35.547770700636946,4.01,8,2
+397,Meteora,Barleywine - American,Barleywine,Toppling Goliath Brewing Co.,11.0,35.547770700636946,4.4,0,1
+398,Methode Czech,Pilsner - Czech / Bohemian,Pilsner,WarPigs Brewpub,5.2,35.547770700636946,3.37,26,0
+399,Micke's Lingon Trip (2022),Mead - Melomel,Mead,Marlobobo,12.0,35.547770700636946,4.27,21,1
+400,Midnight Sea,Stout - Imperial / Double,Stout,Toppling Goliath Brewing Co.,14.26,35.547770700636946,4.28,35,1
+401,Mijmer,Wild Ale - Other,Wild Ale,Nevel Wild Ales,5.2,35.547770700636946,3.86,39,2
+402,Mind on Fire,IPA - Triple New England / Hazy,IPA,Spartacus Brewing,9.5,67.0,4.26,16,4
+403,Minerva,Sour - Berliner Weisse,Sour,Schneeeule,3.5,35.547770700636946,3.78,34,3
+404,Minne,Wild Ale - Other,Wild Ale,Nevel Wild Ales,5.9,35.547770700636946,3.54,39,2
+405,Minoh Kokusan Momo Weizen (?????????),Wheat Beer - Hefeweizen,Wheat Beer,A.J.I. Beer Inc.,5.0,35.547770700636946,3.7,38,0
+406,Minoh Oyamada Berries,Grape Ale - Italian,Grape,A.J.I. Beer Inc.,5.5,35.547770700636946,3.39,12,0
+407,Minoh Pilsner,Pilsner - Other,Pilsner,A.J.I. Beer Inc.,5.0,35.547770700636946,3.46,26,0
+408,Minoh Sansho W-IPA (??W-IPA),IPA - Imperial / Double,IPA,A.J.I. Beer Inc.,9.0,78.0,3.54,16,4
+409,Minoh x Ichiro's Malt Barrel Aged Imperial Stout,Stout - Imperial / Double,Stout,A.J.I. Beer Inc.,9.5,55.0,3.85,35,1
+410,Minoh Yuzu White (??????),Fruit Beer,Fruit,A.J.I. Beer Inc.,5.0,12.0,3.66,9,0
+411,Minutiae (2022),Stout - Imperial / Double,Stout,Phase Three Brewing,13.5,35.547770700636946,4.44,35,1
+412,Mirabelge,Lambic - Fruit,Lambic,Pellicle Vergistingen,6.0,35.547770700636946,3.91,20,2
+413,Missing You,Sour - Smoothie / Pastry,Sour,Pulpit Rock Brewing Company,7.0,35.547770700636946,4.23,34,3
+414,Misspent Youth,Pale Ale - American,Pale,Moonlight Brewing Company,5.6,35.547770700636946,3.55,25,0
+415,Misto,Wild Ale - Other,Wild Ale,Tommie Sjef,9.0,25.0,4.13,39,2
+416,Mitch & Murray,Mild - Other,Mild,Branch & Bone Artisan Ales,3.8,35.547770700636946,3.61,22,0
+417,Moctezuma Coffee Hazelnut,Stout - Imperial / Double,Stout,Seven Island Brewery,10.3,35.547770700636946,3.96,35,1
+418,Moes,Wild Ale - Other,Wild Ale,Nevel Wild Ales,4.6,35.547770700636946,3.69,39,2
+419,Mojnerfucker,IPA - Triple,IPA,Too Old To Die Young Brewing Co.,10.0,50.0,3.98,16,4
+420,Moksa FIVE,Stout - Imperial / Double,Stout,Moksa Brewing Co,13.4,35.547770700636946,4.41,35,1
+421,Mole,Stout - Other,Stout,Brasserie de la Sambre,13.8,10.0,4.15,35,1
+422,MOON,IPA - American,IPA,Crooked Moon Brewing,6.0,35.547770700636946,3.61,16,4
+423,MOONLIGHT SLEEPING ON A MIDNIGHT LAKE,IPA - Imperial / Double New England / Hazy,IPA,Pomona Island Brew Co.,8.0,35.547770700636946,4.02,16,4
+424,Moonwalk (2022),Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.29,20,2
+425,Morello Myrcia Gale 2022,Mead - Other,Mead,The Attic Meadery,13.0,35.547770700636946,4.22,21,1
+426,Morello Syrah 2022,Mead - Melomel,Mead,The Attic Meadery,14.0,35.547770700636946,4.03,21,1
+427,Morello Wild Apple 2022,Mead - Melomel,Mead,The Attic Meadery,14.0,35.547770700636946,4.17,21,1
+428,Morning Dream Walk,Stout - Imperial / Double,Stout,Recycled Brewing Company,9.5,35.547770700636946,3.76,35,1
+429,Mortalis Bianca Hydra,Sour - Smoothie / Pastry,Sour,Omnipollo,6.0,35.547770700636946,4.37,34,3
+430,Mosaic Starburst,IPA - Imperial / Double,IPA,TapRoom Beer Company,8.0,35.547770700636946,3.81,16,4
+431,Moss,IPA - Imperial / Double,IPA,Finback Brewery,8.5,70.0,4.07,16,4
+432,Most Mellow,Stout - Imperial / Double,Stout,Dugges Bryggeri,16.7,35.547770700636946,4.25,35,1
+433,Mostra 6th Anniversary Stout,Stout - Imperial / Double,Stout,Toppling Goliath Brewing Co.,7.894397435897437,35.547770700636946,4.61,35,1
+434,Mother Fluffer Jones,Stout - Imperial / Double Pastry,Stout,3 Sons Brewing Co.,13.2,35.547770700636946,4.38,35,1
+435,Mr Nielsen's Cornucopia 2021,Mead - Cyser,Mead,The Attic Meadery,14.0,35.547770700636946,4.08,21,1
+436,Mr. Paul,Porter - Other,Porter,Schneeeule,5.0,35.547770700636946,3.39,27,0
+437,Mucha,Lager - Pale,Lager,Creature Comforts Brewing Co.,5.0,35.547770700636946,3.59,19,0
+438,Multiple Ectogasms,IPA - New England / Hazy,IPA,Drekker Brewing Company,7.0,65.0,4.19,16,4
+439,Mumbo Jumbo #1: Passion Fruit,Sour - Fruited Gose,Sour,ÅBEN,6.0,35.547770700636946,3.88,34,3
+440,Mumbo Jumbo #2: Black Currant,Sour - Fruited Gose,Sour,ÅBEN,6.0,35.547770700636946,3.78,34,3
+441,Mumbo Jumbo #3 White Peach,Sour - Fruited Gose,Sour,ÅBEN,6.0,35.547770700636946,3.64,34,3
+442,Mumbo Jumbo #4 Blackberry,Sour - Fruited Gose,Sour,ÅBEN,6.0,35.547770700636946,3.53,34,3
+443,Münich Münich Lager,Lager - Munich Dunkel,Lager,Ebeltoft Gårdbryggeri,5.2,35.547770700636946,3.26,19,0
+444,Murder (2022 Release),Stout - Imperial / Double,Stout,Dois Corvos,12.0,35.547770700636946,4.11,35,1
+445,Murder In Carcavelos (2022 Release),Stout - Imperial / Double,Stout,Dois Corvos,12.0,35.547770700636946,4.01,35,1
+446,Musik zur Entspannung,Wild Ale - Other,Wild Ale,Schneeeule,6.5,35.547770700636946,3.77,39,2
+447,Muskaat (2020),Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.15,20,2
+448,Mustachio Pistachio,Stout - Imperial / Double Pastry,Stout,Basqueland Brewing,12.0,70.0,3.96,35,1
+449,Natur/Kultur,Cider - Dry,Cider,Pomologik,7.0,35.547770700636946,3.5,7,0
+450,Near And Far Curious Club 2018,Farmhouse Ale - Saison,Farmhouse,Sour Cellars,8.9,35.547770700636946,3.91,8,2
+451,Nectaronus Prime,IPA - New England / Hazy,IPA,Moksa Brewing Co,7.0,35.547770700636946,4.0,16,4
+452,NEIPA DDH - Centennial / HBC 630 / Simcoe,IPA - New England / Hazy,IPA,Popihn,7.0,35.547770700636946,3.73,16,4
+453,NEIPA DDH - Citra Cryo / Simcoe / ID 158,IPA - New England / Hazy,IPA,Popihn,7.0,35.547770700636946,3.79,16,4
+454,NEIPA DDH - Cryo El Dorado / Mosaic / HBC 586,IPA - New England / Hazy,IPA,Popihn,6.9,35.547770700636946,3.84,16,4
+455,Never Mind the Bitter,Bitter - Session / Ordinary,Bitter,Hyllie Bryggeri,4.5,35.547770700636946,3.39,2,0
+456,Newtro,Hard Seltzer,Hard Seltzer,Untitled Art,5.0,35.547770700636946,3.08,14,0
+457,Niche Peach Connoisseur 5000,Sour - Fruited,Sour,Sudden Death Brewing Co.,8.0,35.547770700636946,4.31,34,3
+458,Night of the Hop Creeps,IPA - American,IPA,To Øl,6.5,35.547770700636946,3.59,16,4
+459,Nighthawk,Schwarzbier,Schwarzbier,Enegren Brewing Company,4.8,28.0,3.75,31,0
+460,Nigredo,Schwarzbier,Schwarzbier,Birrificio Italiano,6.5,35.547770700636946,3.66,31,0
+461,Noa Pecan Mud Cake Chessboard Stout,Stout - Imperial / Double Pastry,Stout,Omnipollo,11.0,35.547770700636946,4.11,35,1
+462,Noa Pecan Mud Cake Chessboard Stout,Stout - Imperial / Double Pastry,Stout,Omnipollo,11.0,35.547770700636946,4.11,35,1
+463,Nocturnal,Stout - Imperial / Double Milk,Stout,Ten Hands Brewing,11.5,60.0,3.84,35,1
+464,Non-Alcoholic Italian Pilsner,Non-Alcoholic Beer - Lager,Non-Alcoholic,Untitled Art,0.5,35.547770700636946,3.56,23,0
+465,North German Pils,Pilsner - German,Pilsner,Ebeltoft Gårdbryggeri,5.0,35.547770700636946,3.27,26,0
+466,Northern Lights,Pale Ale - New England / Hazy,Pale,Ten Hands Brewing,5.2,40.0,3.5,25,0
+467,Northside Lager,Lager - American,Lager,Ology Brewing Co,3.75,35.547770700636946,3.38,19,0
+468,Nyctophobia (Bourbon Barrel-Aged),Stout - Imperial / Double,Stout,Hyllie Bryggeri,11.0,35.547770700636946,3.92,35,1
+469,Nyctophobia (Single Malt Barrel-Aged),Stout - Imperial / Double,Stout,Hyllie Bryggeri,12.0,35.547770700636946,3.96,35,1
+470,Obsession,IPA - Imperial / Double New England / Hazy,IPA,Basqueland Brewing,8.0,35.547770700636946,4.0,16,4
+471,Ode,Wild Ale - Other,Wild Ale,Nevel Wild Ales,6.1,35.547770700636946,3.59,39,2
+472,Oerbier,Belgian Strong Dark Ale,Belgian,Brouwerij De Dolle Brouwers,9.0,35.547770700636946,3.72,1,2
+473,Off the Beaten Track,Bock - Doppelbock,Bock,Buddelship Brauerei,7.5,35.547770700636946,3.11,4,0
+474,Offbeat Oils - Nutty Norwalien,Mead - Melomel,Mead,Marlobobo,12.0,35.547770700636946,4.25,21,1
+475,O'HANRAHA-HANRAHAN,Sour - Fruited Gose,Sour,Pomona Island Brew Co.,5.5,35.547770700636946,3.98,34,3
+476,OJ Run,IPA - Imperial / Double New England / Hazy,IPA,Narrow Gauge Brewing Company,8.6,70.0,4.22,16,4
+477,Omnichord Preset,IPA - New England / Hazy,IPA,Neon Raptor Brewing Co.,6.0,35.547770700636946,3.86,16,4
+478,OMNIPOLLOSCOPE #2 SUPERSTITION STRAWBERRY BOURBON MEAD BARRELS,Barleywine - American,Barleywine,Omnipollo,15.0,35.547770700636946,4.3,0,1
+479,OMNIPOLLOSCOPE #2 SUPERSTITION STRAWBERRY BOURBON MEAD BARRELS,Barleywine - American,Barleywine,Omnipollo,15.0,35.547770700636946,4.3,0,1
+480,Once in a Blue Moon,IPA - Triple New England / Hazy,IPA,Folkingebrew,10.0,35.547770700636946,4.12,16,4
+481,One For the Money,IPA - Imperial / Double New England / Hazy,IPA,Hyllie Bryggeri,8.0,40.0,3.72,16,4
+482,ONE MILLION DONG (Citra × Nelson Sauvin),IPA - American,IPA,CLAG Brewing Company,7.0,35.547770700636946,4.31,16,4
+483,One of the Greats - Batch 4,Farmhouse Ale - Saison,Farmhouse,Dekkera Brewing & Blending,5.25,18.0,3.95,8,2
+484,One of the Greats: Achtung,Farmhouse Ale - Saison,Farmhouse,Dekkera Brewing & Blending,5.25,35.547770700636946,3.9,8,2
+485,Öö X (Cellar Series),Porter - Imperial / Double Baltic,Porter,Põhjala,13.0,30.0,4.25,27,1
+486,Opppaque - MSM Motueka Strata Mosaic,IPA - Triple New England / Hazy,IPA,Juicy Brewing Co,10.0,35.547770700636946,4.1,16,4
+487,Orange 2022,Wild Ale - Other,Wild Ale,Métaphore,6.6,35.547770700636946,4.03,39,2
+488,Orange Is My New Love,Farmhouse Ale - Other,Farmhouse,Cervesa Espiga,7.0,35.547770700636946,3.6,8,2
+489,Orange Velvet IPA,IPA - Milkshake,IPA,LERVIG,5.5,29.0,3.75,16,4
+490,Oud Bruin,Sour - Flanders Oud Bruin,Sour,Tommie Sjef,7.1,15.0,3.78,34,3
+491,Õunaraks,Sour - Fruited,Sour,Põhjala,4.2,10.0,3.49,34,3
+492,Our Day Will Come,Stout - Irish Dry,Stout,Branch & Bone Artisan Ales,4.2,35.547770700636946,3.69,35,0
+493,Our House,IPA - New England / Hazy,IPA,Ten Hands Brewing,7.0,35.0,3.68,16,4
+494,Outward Flux,Sour - Other,Sour,Recycled Brewing Company,4.7,35.547770700636946,3.79,34,3
+495,Oven Baked,IPA - American,IPA,ÅBEN,6.0,35.547770700636946,3.61,16,4
+496,Over the River,Barleywine - American,Barleywine,Ruse Brewing,14.7,35.547770700636946,4.22,0,1
+497,Oyn Oy,Pilsner - Other,Pilsner,OY Brewing,5.2,35.547770700636946,3.35,26,0
+498,Oyn Oy,Pilsner - Other,Pilsner,OY Brewing,5.2,35.547770700636946,3.35,26,0
+499,P3 Czech-Style Dark Lager,Lager - Dark,Lager,Phase Three Brewing,5.3,35.547770700636946,3.87,19,0
+500,P3 Pils,Lager - American,Lager,Phase Three Brewing,4.7,35.547770700636946,3.75,19,0
+501,P3 Polish-Style Pilsner,Pilsner - Other,Pilsner,Phase Three Brewing,5.5,35.547770700636946,3.83,26,0
+502,Pacifier,Pilsner - Czech / Bohemian,Pilsner,To Øl CPH,4.7,40.0,3.44,26,0
+503,Paradise Punch,IPA - Triple New England / Hazy,IPA,Mikkeller Brewpub London,10.0,35.547770700636946,4.02,16,4
+504,Paramour,Sour - Fruited Gose,Sour,Cervesa Espiga,4.5,5.0,3.9,34,3
+505,Pasito A Pasito - Batch 3,Wild Ale - American,Wild Ale,Dekkera Brewing & Blending,5.7,35.547770700636946,3.81,39,2
+506,Pasito A Pasito: Albaricoque - Batch 2,Wild Ale - American,Wild Ale,Dekkera Brewing & Blending,6.1,18.0,3.98,39,2
+507,Passionberry Cream Gluten Free Sour,Gluten-Free,Gluten-Free,Untitled Art,5.5,35.547770700636946,4.15,10,2
+508,Pastry Mistress,Mead - Other,Mead,Superstition Meadery,14.0,35.547770700636946,4.11,21,1
+509,Peach Rust,Wild Ale - American,Wild Ale,Métaphore,5.5,35.547770700636946,4.21,39,2
+510,Perzik / Passie Fruit Series 20/08,Lambic - Fruit,Lambic,Symbiose Brewing / Blending,5.6,35.547770700636946,4.25,20,2
+511,Phases of Darkness W/ Coconut,Stout - Imperial / Double,Stout,Ruse Brewing,15.0,35.547770700636946,4.23,35,1
+512,Phases of Darkness W/ Vanilla,Stout - Imperial / Double,Stout,Ruse Brewing,13.6,35.547770700636946,4.41,35,1
+513,Phoenix,Sour - Fruited,Sour,Holy Goat Brewing,13.3,35.547770700636946,4.42,34,1
+514,Phoenix 2021,Barleywine - English,Barleywine,Salikatt,6.0,35.547770700636946,3.93,0,2
+515,Pickle Rich,Sour - Fruited Berliner Weisse,Sour,18th Street Brewery,5.0,35.547770700636946,3.73,34,3
+516,Pie In the Sky,Stout - Imperial / Double Pastry,Stout,18th Street Brewery,10.0,35.547770700636946,3.9,35,1
+517,Pillory,Farmhouse Ale - Saison,Farmhouse,Dekkera Brewing & Blending,7.7,24.0,3.68,8,2
+518,Pillow Stacks,IPA - Imperial / Double New England / Hazy,IPA,Outer Range Brewing Co.,7.6,35.547770700636946,4.21,16,4
+519,Pils,Pilsner - German,Pilsner,Mahrs Bräu,5.0,45.0,3.32,26,0
+520,Pils,Pilsner - German,Pilsner,FrauGruber Brewing,4.9,35.547770700636946,3.48,26,0
+521,Pils,Pilsner - German,Pilsner,Mahrs Bräu,4.8,35.547770700636946,3.53,26,0
+522,Pils / Spring Pils,Pilsner - Other,Pilsner,Hyllie Bryggeri,4.9,35.547770700636946,3.48,26,0
+523,Pils Talus Taurus,Pilsner - German,Pilsner,Buddelship Brauerei,5.0,35.547770700636946,3.6,26,0
+524,Pilsner,Pilsner - Other,Pilsner,Flying Couch Brewing,4.5,35.547770700636946,3.16,26,0
+525,Pin Seeker Pilsner,Pilsner - German,Pilsner,Humble Forager Brewery,4.2,35.547770700636946,3.65,26,0
+526,Pineapple Cherry Blackberry Smoothie Seltzer,Hard Seltzer,Hard Seltzer,Untitled Art,5.0,35.547770700636946,4.18,14,2
+527,Pineapple x Cherry x Strawberry Sour Ale,Sour - Fruited,Sour,?rpus Brewing Co.,5.0,35.547770700636946,4.18,34,3
+528,Planifolia,Stout - Imperial / Double,Stout,Phase Three Brewing,14.6,35.547770700636946,4.45,35,1
+529,Playitas Session IPA,IPA - Session,IPA,Cervecería Transpeninsular,5.0,40.0,3.46,16,4
+530,PLOP - Majik Milk,Hard Seltzer,Hard Seltzer,Drekker Brewing Company,6.0,35.547770700636946,3.82,14,2
+531,PLOP - Pain Killer,Hard Seltzer,Hard Seltzer,Drekker Brewing Company,6.0,35.547770700636946,4.28,14,2
+532,Pluche 2022,Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.23,20,2
+533,Plum Barleywine (Cellar Series),Barleywine - English,Barleywine,Põhjala,12.0,35.547770700636946,3.94,0,1
+534,Plumb Stoned,Sour - Other,Sour,DankHouse Brewing Company,6.5,35.547770700636946,4.12,34,3
+535,Polock en Rouge,Grodziskie / Grätzer,Grodziskie,Birrificio Italiano,4.0,35.547770700636946,3.66,13,0
+536,Poolside,Sour - Fruited,Sour,Pulpit Rock Brewing Company,5.7,35.547770700636946,4.41,34,3
+537,Pop & Roll,IPA - New England / Hazy,IPA,Vinohradský pivovar,5.2,20.0,3.55,16,4
+538,Port Wine Barrel Aged Maple x Vanilla Imperial Stout,Stout - Imperial / Double Pastry,Stout,?rpus Brewing Co.,12.0,35.547770700636946,4.18,35,1
+539,Premium Lager,Lager - American,Lager,TapRoom Beer Company,4.6,20.0,3.34,19,0
+540,Premium Lager,Lager - American,Lager,TapRoom Beer Company,4.6,20.0,3.34,19,0
+541,Pretty Pale For An Icelander,Pale Ale - New England / Hazy,Pale,Crooked Moon Brewing,4.7,35.547770700636946,3.51,25,0
+542,Profligacy,Stout - Imperial / Double Pastry,Stout,Lua Brewing,14.1,35.547770700636946,4.53,35,1
+543,Prost!,Pilsner - German,Pilsner,Salikatt,4.7,35.547770700636946,3.53,26,0
+544,Proto 88,IPA - New England / Hazy,IPA,Brewski,5.8,35.547770700636946,3.53,16,4
+545,Proto 91: Berliner Weisse W. Raspberry,Sour - Fruited Berliner Weisse,Sour,Brewski,4.0,35.547770700636946,3.75,34,3
+546,Proto 92,Sour - Fruited Berliner Weisse,Sour,Brewski,4.0,35.547770700636946,4.05,34,3
+547,Proto 93: Berliner Weisse W. Lychee And Passionfruit,Sour - Fruited Berliner Weisse,Sour,Brewski,4.0,35.547770700636946,3.81,34,3
+548,Proto 94: Berliner Weisse W. Pineapple And Yuzu,Sour - Fruited Berliner Weisse,Sour,Brewski,4.0,35.547770700636946,3.91,34,3
+549,Pruim Pit 21/07,Lambic - Fruit,Lambic,Symbiose Brewing / Blending,6.5,35.547770700636946,4.1,20,2
+550,Pseudo Sue,Pale Ale - American,Pale,Toppling Goliath Brewing Co.,5.8,45.0,4.12,25,2
+551,Pure Joy,Stout - Imperial / Double,Stout,Pulpit Rock Brewing Company,11.2,45.0,4.58,35,1
+552,Pure Joy,Stout - Imperial / Double,Stout,Pulpit Rock Brewing Company,11.2,45.0,4.58,35,1
+553,Purple Lava 2023,Stout - Imperial / Double,Stout,Funky Fluid,12.0,35.547770700636946,3.57,35,1
+554,Purple Macaron,Sour - Smoothie / Pastry,Sour,Friends Company,4.7,35.547770700636946,3.91,34,3
+555,QDH Nelson x Citra Cryo x Nectaron x Mosaic Lupomax QIPA,IPA - Quadruple,IPA,?rpus Brewing Co.,12.0,35.547770700636946,4.15,16,4
+556,QUASIMODO ON BELLS,Stout - Imperial / Double Pastry,Stout,Pomona Island Brew Co.,11.0,35.547770700636946,4.09,35,1
+557,Quince,Sour - Fruited Berliner Weisse,Sour,Schneeeule,3.5,35.547770700636946,3.75,34,3
+558,Qvevri,Wild Ale - Other,Wild Ale,Métaphore,5.2,35.547770700636946,3.9,39,2
+559,Rabarber Kardemom (2021),Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.08,20,2
+560,Radian,Pilsner - German,Pilsner,Halfway Crooks Beer,4.8,35.547770700636946,3.88,26,0
+561,Radiant Haze,IPA - American,IPA,Toppling Goliath Brewing Co.,7.0,35.547770700636946,3.96,16,4
+562,Radical Empathy,Pilsner - German,Pilsner,Resident Culture Brewing Co.,4.8,35.547770700636946,3.76,26,0
+563,Radix,Sour - Smoothie / Pastry,Sour,Salikatt,8.0,35.547770700636946,4.24,34,3
+564,Rainbow Colored Glasses,Sour - Berliner Weisse,Sour,Ology Brewing Co,6.0,35.547770700636946,3.87,34,3
+565,Raspberry Berliner,Sour - Fruited Berliner Weisse,Sour,18th Street Brewery,5.0,35.547770700636946,3.71,34,3
+566,Raspoetin (2022),Lambic - Other,Lambic,Bofkont,6.0,35.547770700636946,4.02,20,2
+567,Raw Power,IPA - Imperial / Double,IPA,Ebeltoft Gårdbryggeri,8.5,65.0,3.85,16,4
+568,RBG - Rye Barrel Gold,Old Ale,Old Ale,Forager Brewery,13.8,35.547770700636946,4.32,24,1
+569,Reality Czeck,Pilsner - Czech / Bohemian,Pilsner,Moonlight Brewing Company,4.9,20.0,3.76,26,0
+570,Reality Czeck,Pilsner - Czech / Bohemian,Pilsner,Moonlight Brewing Company,4.9,20.0,3.76,26,0
+571,Record Store,IPA - New England / Hazy,IPA,FrauGruber Brewing,7.2,35.547770700636946,3.78,16,4
+572,Red Cat Mead (Bourbon Oak Aged) 2022,Mead - Other,Mead,The Attic Meadery,13.0,35.547770700636946,4.26,21,1
+573,Reduced Mass,Mild - Other,Mild,Ology Brewing Co,3.75,35.547770700636946,3.41,22,0
+574,Release the Hounds,IPA - New England / Hazy,IPA,Mikkeller Brewpub London,6.0,35.547770700636946,3.79,16,4
+575,Return To Innocence,Lager - IPL (India Pale Lager),Lager,Batch Craft Beer & Kolaches,5.8,35.547770700636946,3.4,19,0
+576,Riding For the Feeling,Pilsner - Italian,Pilsner,Resident Culture Brewing Co.,5.0,35.547770700636946,3.74,26,0
+577,Rise And Shine,Stout - Imperial / Double,Stout,Willibald Farm Brewery,8.5,35.547770700636946,3.89,35,1
+578,Rise of Orion,Stout - Imperial / Double,Stout,To Øl CPH,10.2,40.0,3.67,35,1
+579,Robusta By Rackhouse,Stout - Imperial / Double Coffee,Stout,LERVIG,14.0,35.547770700636946,4.33,35,1
+580,Ron’s Not Bitter,Bitter - Session / Ordinary,Bitter,Garden Path Fermentation,3.9,35.547770700636946,3.58,2,0
+581,Ronals Pils (Side Pull),Pilsner - Czech / Bohemian,Pilsner,Pleasanti Street,5.0,35.547770700636946,3.33,26,0
+582,Ronals Pils (Side Pull),Pilsner - Czech / Bohemian,Pilsner,Pleasanti Street,5.0,35.547770700636946,3.33,26,0
+583,Rosa,Belgian Tripel,Belgian,RAWW Bier,9.0,35.547770700636946,3.43,1,0
+584,Rosa,Belgian Tripel,Belgian,WarPigs Brewpub,8.5,35.547770700636946,3.39,1,0
+585,Rosemary Fields Forever,Sour - Fruited,Sour,Pellicle Vergistingen,6.0,35.547770700636946,3.97,34,3
+586,Rotating Hop Pilsner: Elixir,Pilsner - German,Pilsner,Enegren Brewing Company,4.8,35.547770700636946,3.61,26,0
+587,Roykoy,Rauchbier,Rauchbier,OY Brewing,8.7,70.0,3.3,28,0
+588,RU=MC2,Lager - Helles,Lager,Birra MC - 77,4.7,35.547770700636946,3.8983141762452136,19,0
+589,RUSSIAN IMPERIAL STOUT - Bourbon Barrel Aged Blend,Stout - Russian Imperial,Stout,Popihn,12.0,35.547770700636946,3.81,35,1
+590,Rust,Wheat Beer - Wheat Wine,Wheat Beer,Lua Brewing,15.7,35.547770700636946,4.2,38,1
+591,Saaz,Wild Ale - Other,Wild Ale,Tommie Sjef,6.8,20.0,4.07,39,2
+592,Saison De Coupage - Batch 2,Farmhouse Ale - Saison,Farmhouse,Dekkera Brewing & Blending,5.6,35.547770700636946,3.7,8,2
+593,Saison Rougé D’amphore (Abouriou),Farmhouse Ale - Saison,Farmhouse,Pleasanti Street,7.0,35.547770700636946,3.37,8,0
+594,Salted Rhubarb Vanilla Sour Cream Crumble,Sour - Fruited,Sour,LERVIG,3.5,12.0,3.6,34,3
+595,Salted Tangerine Peel Infused Lambic,Lambic - Traditional,Lambic,Oud Beersel,6.8,35.547770700636946,3.64,20,2
+596,Sand,Cider - Dry,Cider,Pomologik,5.5,35.547770700636946,3.64,7,0
+597,Sanguine,Pale Ale - Belgian,Pale,Halfway Crooks Beer,4.8,35.547770700636946,3.73,25,0
+598,Saturnus,Pale Ale - New England / Hazy,Pale,Põhjala,5.0,30.0,3.6,25,0
+599,Sauvignon / Passie 21/18,Lambic - Other,Lambic,Symbiose Brewing / Blending,7.5,35.547770700636946,4.07,20,2
+600,Scatter Signal (2022),Stout - Imperial / Double Pastry,Stout,Bottle Logic Brewing,12.0,30.0,4.32,35,1
+601,Scratch the Itch,Wild Ale - American,Wild Ale,Odd Breed Wild Ales,6.0,30.0,3.97,39,2
+602,Scribley,Sour - Fruited,Sour,Sour Cellars,6.4,35.547770700636946,3.86,34,3
+603,Seaman,Sour - Traditional Gose,Sour,Vinohradský pivovar,3.9,7.0,3.66,34,3
+604,Sebastian,Sour - Other,Sour,Dugges Bryggeri,8.0,35.547770700636946,3.76,34,3
+605,Serial Delusion,Pale Ale - American,Pale,Moonlight Brewing Company,5.8,35.547770700636946,3.82,25,2
+606,Severed,Stout - Imperial / Double,Stout,Pleasanti Street,13.65,35.547770700636946,4.11,35,1
+607,Sewn To the Sky,IPA - New England / Hazy,IPA,Branch & Bone Artisan Ales,7.0,35.547770700636946,4.03,16,4
+608,She Shot First,IPA - New England / Hazy,IPA,Bottle Logic Brewing,6.4,65.0,3.97,16,4
+609,Shivers 2022,Wild Ale - Other,Wild Ale,Crossover Blendery,7.1,35.547770700636946,3.92,39,2
+610,SHORT RIFF LOVER BOY,IPA - New England / Hazy,IPA,Pomona Island Brew Co.,6.8,35.547770700636946,3.95,16,4
+611,Sidious,Farmhouse Ale - Other,Farmhouse,Batch Craft Beer & Kolaches,4.6,35.547770700636946,3.66,8,0
+612,Silver Spoon,Stout - Coffee,Stout,18th Street Brewery,8.6,35.547770700636946,3.94,35,1
+613,Simcoe Dry-Hopped Lambic,Lambic - Traditional,Lambic,Oud Beersel,6.8,35.547770700636946,3.8,20,2
+614,Single Estate - Kieni,Stout - Coffee,Stout,WarPigs Brewpub,5.1,35.547770700636946,3.3,35,0
+615,Singularity: Pomme D'Or,Cider - Other Fruit,Cider,Pellicle Vergistingen,7.894397435897437,35.547770700636946,3.81,7,2
+616,Skånsk Lager,Lager - Helles,Lager,Hyllie Bryggeri,5.2,35.547770700636946,3.3,19,0
+617,Sky Kraken,Pale Ale - New England / Hazy,Pale,Fremont Brewing,5.5,35.547770700636946,3.81,25,2
+618,Slang Du Jour - Raspberry Cheesecake,Sour - Smoothie / Pastry,Sour,Drekker Brewing Company,6.3,35.547770700636946,4.34,34,3
+619,Slayz Gonna Be Haze,Pale Ale - New England / Hazy,Pale,Cervecería Transpeninsular,6.1,26.0,3.56,25,0
+620,Slayz the Haze,IPA - New England / Hazy,IPA,Cervecería Transpeninsular,6.5,35.547770700636946,3.8,16,4
+621,Slightly Tightly,Sour - Other,Sour,Sour Cellars,8.2,35.547770700636946,4.0,34,3
+622,Smoooth Ops Pina Colada,Hard Seltzer,Hard Seltzer,3 Sons Brewing Co.,6.0,35.547770700636946,4.09,14,2
+623,Smoothie Sequence MBCC Special #1 (Raspberry,Sour - Smoothie / Pastry,Sour,Folkingebrew,6.0,35.547770700636946,4.16,34,3
+624,Smoothie Sequence MBCC Special #2 (Piña Colada),Sour - Smoothie / Pastry,Sour,Folkingebrew,6.0,35.547770700636946,4.01,34,3
+625,S'Mortal Kombat,Stout - Imperial / Double,Stout,3 Sons Brewing Co.,12.8,35.547770700636946,4.52,35,1
+626,Smuggler's Song,Gluten-Free,Gluten-Free,Mikerphone Brewing,6.0,35.547770700636946,3.97,10,2
+627,Smulsmurf 2022,Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.12,20,2
+628,Sometime Around Midnight,IPA - Imperial / Double New England / Hazy,IPA,Drekker Brewing Company,8.0,35.547770700636946,4.0,16,4
+629,Sorcerer's Lab: Black Oats,Stout - Oatmeal,Stout,Amager Bryghus,5.2,27.0,3.29,35,0
+630,Sorcerer's Lab: Cinderella,IPA - Session,IPA,Amager Bryghus,4.5,6.0,3.52,16,4
+631,Sorte Tanker,Stout - Imperial / Double,Stout,Too Old To Die Young Brewing Co.,10.7,40.0,3.83,35,1
+632,Soul Catcher,Porter - Imperial / Double Baltic,Porter,TapRoom Beer Company,10.8,35.547770700636946,3.58,27,0
+633,Sour Punch,Sour - Fruited Berliner Weisse,Sour,Carbon Brews,4.5,6.0,3.67,34,3
+634,Soyouz Ecuador Edition,Stout - Russian Imperial,Stout,Brasserie de la Sambre,12.5,90.0,3.94,35,1
+635,Soyouz Nicaragua Edition,Stout - Russian Imperial,Stout,Brasserie de la Sambre,13.1,35.547770700636946,3.86,35,1
+636,Space Jam (2023),Stout - Imperial / Double Pastry,Stout,Bottle Logic Brewing,13.5,30.0,4.32,35,1
+637,Space Turtle,Stout - Imperial / Double,Stout,Magnanimous Brewing,13.5,35.547770700636946,4.28,35,1
+638,Spacetime,IPA - Imperial / Double,IPA,Willibald Farm Brewery,8.3,35.547770700636946,4.06,16,4
+639,Spare,IPA - Cold,IPA,18th Street Brewery,4.4,35.547770700636946,3.42,16,4
+640,Special Extra Export Stout,Stout - Foreign / Export,Stout,Brouwerij De Dolle Brouwers,9.0,50.0,3.6,35,1
+641,SPICY DARK CHOCO MOLÉ By Rackhouse,Stout - Imperial / Double Pastry,Stout,LERVIG,14.5,35.547770700636946,4.31,35,1
+642,Spritz Seltzer,Hard Seltzer,Hard Seltzer,2085-HS,5.0,35.547770700636946,3.38,14,0
+643,sprøng,Wild Ale - Other,Wild Ale,Tommie Sjef,7.1,35.547770700636946,4.15,39,2
+644,Squirrely DIPA,IPA - Imperial / Double New England / Hazy,IPA,Outer Range Brewing Co.,8.0,35.547770700636946,4.16,16,4
+645,Star Dust,Sour - Fruited,Sour,Cervesa Espiga,8.0,35.547770700636946,3.9,34,3
+646,Stay,Sour - Fruited,Sour,Lua Brewing,8.5,35.547770700636946,4.17,34,3
+647,Stay Hella Puffed: Grape Cherry,Sour - Fruited,Sour,DankHouse Brewing Company,6.6,35.547770700636946,4.27,34,3
+648,Steezy DDH,IPA - New England / Hazy,IPA,Outer Range Brewing Co.,7.2,35.547770700636946,4.21,16,4
+649,Stellar,Barleywine - English,Barleywine,Pleasanti Street,14.7,35.547770700636946,4.45,0,1
+650,Stevnsberry Free Jazz (2022),Mead - Melomel,Mead,Marlobobo,10.0,35.547770700636946,4.48,21,1
+651,Stiff Peaks,Sour - Smoothie / Pastry,Sour,3 Sons Brewing Co.,5.6,35.547770700636946,4.1,34,3
+652,Stille Nacht (2022),Belgian Strong Golden Ale,Belgian,Brouwerij De Dolle Brouwers,12.0,35.547770700636946,3.99,1,1
+653,Stille Nacht Reserva (2019),Belgian Strong Golden Ale,Belgian,Brouwerij De Dolle Brouwers,12.0,35.547770700636946,3.95,1,1
+654,Stolen Bikes Ride Faster,Wild Ale - American,Wild Ale,Dekkera Brewing & Blending,6.0,21.0,3.92,39,2
+655,Straw Berry White,Mead - Other,Mead,Superstition Meadery,13.5,35.547770700636946,4.56,21,1
+656,Strummer’s Vienna Lager,Lager - Vienna,Lager,Cervecería Transpeninsular,5.0,38.0,3.5,19,0
+657,Succession,IPA - Triple,IPA,Willibald Farm Brewery,10.0,35.547770700636946,4.19,16,4
+658,Summer '22,Lambic - Fruit,Lambic,Bofkont,6.0,35.547770700636946,4.35,20,2
+659,Sun City,Sour - Fruited Berliner Weisse,Sour,Põhjala,5.0,15.0,3.62,34,3
+660,Sunset Punch,Sour - Fruited,Sour,Moksa Brewing Co,14.3,35.547770700636946,4.06,34,3
+661,Super Clear,IPA - Imperial / Double,IPA,CLAG Brewing Company,8.5,35.547770700636946,4.09,16,4
+662,Super Super Turbo Turbo,Lager - Japanese Rice,Lager,Halfway Crooks Beer,5.0,35.547770700636946,3.96,19,0
+663,Supersonic - Down Under,IPA - Imperial / Double,IPA,LERVIG,8.4,35.547770700636946,4.14,16,4
+664,Surf Zone,IPA - Brett,IPA,Odd Breed Wild Ales,10.8,45.0,3.96,16,4
+665,Svartsalt,Porter - Other,Porter,OY Brewing,5.8,35.547770700636946,3.48,27,0
+666,SWAP #1 Marcobin,Stout - Imperial / Double,Stout,Brewski,13.0,35.547770700636946,4.09,35,1
+667,SWAP #2 HannaHannaH,Stout - Imperial / Double,Stout,Brewski,11.5,35.547770700636946,4.05,35,1
+668,Sweet Osmanthus Infused Lambic,Lambic - Other,Lambic,Oud Beersel,6.8,35.547770700636946,3.73,20,2
+669,Sycamore,Pilsner - German,Pilsner,ÅBEN,4.8,35.547770700636946,3.37,26,0
+670,Symphony One,Wild Ale - Other,Wild Ale,Métaphore,5.5,35.547770700636946,3.93,39,2
+671,Syreregn,IPA - American,IPA,Flying Couch Brewing,6.5,35.547770700636946,3.51,16,4
+672,Tahitian Vanilla Elder Beast,Stout - Imperial / Double Pastry,Stout,Branch & Bone Artisan Ales,14.0,35.547770700636946,4.05,35,1
+673,Tannin,Grape Ale - Other,Grape,Pellicle Vergistingen,7.0,35.547770700636946,4.15,12,2
+674,Techno Tomboy,IPA - New England / Hazy,IPA,Outer Range Brewing Co.,7.2,35.547770700636946,4.1,16,4
+675,Tefnut Blueberry Maple Pancake,Sour - Smoothie / Pastry,Sour,Omnipollo,10.0,35.547770700636946,4.1,34,3
+676,Ten Degrees Pivo,Pilsner - Czech / Bohemian,Pilsner,WarPigs Brewpub,4.0,35.547770700636946,3.35,26,0
+677,Texas Surprise 2022,Wild Ale - Other,Wild Ale,Crossover Blendery,6.1,35.547770700636946,3.86,39,2
+678,Thank This Guy,Pale Ale - New England / Hazy,Pale,Crooked Moon Brewing,5.0,35.547770700636946,3.42,25,0
+679,The Day Japanese Citrus Lager,Fruit Beer,Fruit,Baeren Brauerei,5.0,35.547770700636946,3.3,9,0
+680,The Day Japanese Citrus Lager,Fruit Beer,Fruit,Baeren Brauerei,5.0,35.547770700636946,3.3,9,0
+681,The Day Trad Gold Pilsner,Pilsner - Czech / Bohemian,Pilsner,Baeren Brauerei,4.8,35.547770700636946,3.39,26,0
+682,The Easygoing Drink #8,Farmhouse Ale - Grisette,Farmhouse,Garden Path Fermentation,3.7,35.547770700636946,3.53,8,0
+683,The Eye of Jupiter,IPA - American,IPA,Finback Brewery,7.5,35.547770700636946,4.2,16,4
+684,The Fruitful Barrel Blueberrries & Fir Tips,Wild Ale - American,Wild Ale,Garden Path Fermentation,6.5,35.547770700636946,3.94,39,2
+685,The Garden Paths Led To Flowered 7th Edition,Farmhouse Ale - Saison,Farmhouse,Garden Path Fermentation,7.1,35.547770700636946,3.75,8,2
+686,The Great Locomotive Chase,Rye Wine,Rye,Amager Bryghus,11.0,35.547770700636946,3.67,30,0
+687,The Great Reset,IPA - Imperial / Double,IPA,Stepping Stone Brewing Company,8.2,17.0,3.93,16,4
+688,The Keep Volume II,Barleywine - English,Barleywine,Magnanimous Brewing,12.5,35.547770700636946,4.17,0,1
+689,The Kids Are Not Alright,IPA - Triple New England / Hazy,IPA,Resident Culture Brewing Co.,9.5,35.547770700636946,4.14,16,4
+690,The Kitchen Sink,Stout - Imperial / Double,Stout,3 Sons Brewing Co.,12.0,35.547770700636946,4.31,35,1
+691,The Last Four Winters In Wisconsin (2019),Lambic - Gueuze,Lambic,Funk Factory Geuzeria,5.5,35.547770700636946,4.24,20,2
+692,The Last Four Winters In Wisconsin (2020),Lambic - Gueuze,Lambic,Funk Factory Geuzeria,5.5,35.547770700636946,4.1,20,2
+693,The Lightest One,Lager - Helles,Lager,Enegren Brewing Company,4.8,21.0,3.69,19,0
+694,The Local Harvest Cider Apples,Cider - Dry,Cider,Garden Path Fermentation,6.9,35.547770700636946,3.62,7,0
+695,The Local Harvest Cider Apples & Hops,Cider - Herbed / Spiced / Hopped,Cider,Garden Path Fermentation,6.9,35.547770700636946,3.67,7,0
+696,The Local Harvest: Ashmead's Kernel,Cider - Dry,Cider,Garden Path Fermentation,6.7,35.547770700636946,3.39,7,0
+697,The Long Forever,Stout - Imperial / Double Pastry,Stout,Ruse Brewing,12.0,35.547770700636946,4.24,35,1
+698,The New IPA,IPA - New England / Hazy,IPA,Cervesa Espiga,6.0,60.0,3.94,16,4
+699,The Old Man the Boat,Wild Ale - American,Wild Ale,Garden Path Fermentation,6.0,35.547770700636946,3.83,39,2
+700,The Pershores - Yellow,Wild Ale - Other,Wild Ale,Crossover Blendery,6.3,35.547770700636946,3.86,39,2
+701,The Quadfather (aged In American Oak & Applewood Stave Rye Whiskey Barrels),Belgian Quadrupel,Belgian,Voodoo Brewing Co.,11.4,35.547770700636946,4.22,1,1
+702,The Quantic State,IPA - Imperial / Double New England / Hazy,IPA,Spartacus Brewing,8.4,42.0,4.15,16,4
+703,The Rusty Nail (2022),Stout - Imperial / Double Oatmeal,Stout,Fremont Brewing,13.6,40.0,4.44,35,1
+704,The Stars Are Projectors,Sour - Fruited,Sour,Lua Brewing,6.1,35.547770700636946,4.06,34,3
+705,The Stoner,Farmhouse Ale - Saison,Farmhouse,DUST Blending,6.3,35.547770700636946,4.05,8,2
+706,The Void Within the Cloak,Stout - Imperial / Double Pastry,Stout,Moksa Brewing Co,12.0,35.547770700636946,4.23,35,1
+707,There Is A Cocky Goat Outside,Bock - Hell / Maibock / Lentebock,Bock,Sudden Death Brewing Co.,6.7,35.547770700636946,3.69,4,0
+708,Thor,IPA - New England / Hazy,IPA,Batch Craft Beer & Kolaches,7.0,35.547770700636946,3.73,16,4
+709,Thor Is My Co-Pilot,IPA - Imperial / Double New England / Hazy,IPA,Drekker Brewing Company,8.0,70.0,4.17,16,4
+710,Thorn Matrix,Wild Ale - American,Wild Ale,Buddelship Brauerei,6.5,35.547770700636946,3.57,39,2
+711,Three Chords And A Truth,Stout - Imperial / Double,Stout,Mikerphone Brewing,13.9,35.547770700636946,4.28,35,1
+712,Thrice,IPA - Triple,IPA,Crooked Moon Brewing,11.0,35.547770700636946,3.54,16,4
+713,Tickle Torture: Methode Push Pop,Sour - Smoothie / Pastry,Sour,Forager Brewery,8.0,35.547770700636946,4.17,34,3
+714,Tierra Clara Blonde Ale,Blonde Ale,Blonde Ale,Cervecería Transpeninsular,4.1,15.0,3.4,3,0
+715,Time Eater,IPA - Triple New England / Hazy,IPA,Lua Brewing,10.5,35.547770700636946,4.22,16,4
+716,Tiny Bites,IPA - New England / Hazy,IPA,Drekker Brewing Company,5.0,35.547770700636946,3.84,16,4
+717,Tipopils,Pilsner - Italian,Pilsner,Birrificio Italiano,5.2,25.0,3.57,26,0
+718,Tiramisù by Rackhouse,Stout - Imperial / Double,Stout,LERVIG,13.2,35.547770700636946,4.38,35,1
+719,Tongue In Cheek,Stout - Imperial / Double Pastry,Stout,Dois Corvos,10.0,35.547770700636946,3.92,35,1
+720,Toska Bryggj,Scottish Ale,Scottish,OY Brewing,5.8,35.547770700636946,3.04,32,0
+721,Transcending Memories,Rauchbier,Rauchbier,WarPigs Brewpub,5.2,35.547770700636946,3.2,28,0
+722,Triple Gelato: Berries & Cream,Sour - Smoothie / Pastry,Sour,Funky Fluid,10.0,35.547770700636946,4.22,34,3
+723,Triple Gelato: Bianco,Sour - Smoothie / Pastry,Sour,Funky Fluid,9.0,35.547770700636946,4.14,34,3
+724,Triple Gelato: Viola,Sour - Smoothie / Pastry,Sour,Funky Fluid,9.0,35.547770700636946,4.13,34,3
+725,Triple the Courage,IPA - Triple New England / Hazy,IPA,Folkingebrew,10.0,35.547770700636946,4.12,16,4
+726,Tropical Punch,Sour - Fruited,Sour,Ten Hands Brewing,6.0,35.547770700636946,3.5,34,3
+727,Tropicália,IPA - American,IPA,Creature Comforts Brewing Co.,6.6,65.0,4.05,16,4
+728,Turn Up the Juice,Sour - Fruited Berliner Weisse,Sour,18th Street Brewery,5.0,35.547770700636946,3.58,34,3
+729,Tutty Frutty II,Farmhouse Ale - Saison,Farmhouse,DUST Blending,6.5,35.547770700636946,3.92,8,2
+730,Twilight,IPA - Triple,IPA,Willibald Farm Brewery,10.2,35.547770700636946,4.19,16,4
+731,Tycoons of Taste,IPA - Imperial / Double,IPA,Moksa Brewing Co,9.0,35.547770700636946,3.89,16,4
+732,Umbra 2022,Mead - Melomel,Mead,The Attic Meadery,13.0,35.547770700636946,4.19,21,1
+733,Un4gettable,Barleywine - American,Barleywine,Carbon Brews,12.6,90.0,3.51,0,1
+734,Unknown Passage,Wild Ale - Other,Wild Ale,Branch & Bone Artisan Ales,5.0,35.547770700636946,3.91,39,2
+735,Unlock Citra,IPA - Triple,IPA,Birra MC - 77,10.0,35.547770700636946,3.81,16,4
+736,Unlock Tettnang Tettnanger,Kellerbier / Zwickelbier,Kellerbier,Birra MC - 77,4.9,35.547770700636946,3.8983141762452136,17,2
+737,Upsy Daisy,Stout - Pastry,Stout,ÅBEN,12.0,35.547770700636946,3.95,35,1
+738,V (Five),Stout - Imperial / Double,Stout,Spartacus Brewing,15.0,35.547770700636946,4.57,35,1
+739,Vampyre Disco,Sour - Smoothie / Pastry,Sour,Neon Raptor Brewing Co.,10.0,35.547770700636946,4.18,34,3
+740,Velvet Cobweb (2021),Mead - Melomel,Mead,Marlobobo,13.5,35.547770700636946,4.41,21,1
+741,Velvet Suit,IPA - New England / Hazy,IPA,Birra MC - 77,6.5,35.547770700636946,3.92,16,4
+742,VENN,Stout - Imperial / Double Pastry,Stout,Pulpit Rock Brewing Company,11.1,35.547770700636946,4.5,35,1
+743,VENN,Stout - Imperial / Double Pastry,Stout,Pulpit Rock Brewing Company,11.1,35.547770700636946,4.5,35,1
+744,VHS Marathon,IPA - Imperial / Double New England / Hazy,IPA,Too Old To Die Young Brewing Co.,8.5,40.0,4.05,16,4
+745,VHS Never Dies,IPA - Imperial / Double New England / Hazy,IPA,Too Old To Die Young Brewing Co.,8.0,35.0,3.77,16,4
+746,Vinohradská 11,Pilsner - Czech / Bohemian,Pilsner,Vinohradský pivovar,4.5,35.547770700636946,3.54,26,0
+747,Vinohradská 12,Pilsner - Czech / Bohemian,Pilsner,Vinohradský pivovar,4.8,35.547770700636946,3.57,26,0
+748,Vintage Nectar 2023,Stout - Imperial / Double,Stout,3 Sons Brewing Co.,7.894397435897437,35.547770700636946,4.17,35,1
+749,Violet Perception,Sour - Fruited Berliner Weisse,Sour,Branch & Bone Artisan Ales,4.6,35.547770700636946,3.84,34,3
+750,Violetta,IPA - New England / Hazy,IPA,Ten Hands Brewing,6.3,40.0,3.71,16,4
+751,Virmalised,IPA - American,IPA,Põhjala,6.5,50.0,3.68,16,4
+752,Voodoo Love Child,Belgian Tripel,Belgian,Voodoo Brewing Co.,9.5,25.0,3.72,1,2
+753,Voodoo Priest,Stout - Imperial / Double,Stout,FrauGruber Brewing,13.8,35.547770700636946,4.21,35,1
+754,Vorrei Un Aperitivo,Wild Ale - Other,Wild Ale,Métaphore,4.6,35.547770700636946,3.97,39,2
+755,Walled Gardens (2022),Sour - Fruited,Sour,Crossover Blendery,5.8,35.547770700636946,3.75,34,3
+756,Walnotenlambiek,Lambic - Fruit,Lambic,Oud Beersel,7.5,35.547770700636946,3.51,20,2
+757,Watch 'Em All Flock,Stout - Imperial / Double Pastry,Stout,Moksa Brewing Co,13.4,35.547770700636946,4.57,35,1
+758,WE WERE SO IN PHASE,IPA - American,IPA,Pomona Island Brew Co.,6.8,35.547770700636946,3.69,16,4
+759,What's In Your Head?,Sour - Fruited,Sour,Mikerphone Brewing,5.0,35.547770700636946,4.13,34,3
+760,Where Evil Grows BA,Stout - Imperial / Double,Stout,Crooked Moon Brewing,11.0,35.547770700636946,4.14,35,1
+761,Wild Dry Cider - Aged On Lambic Whisky Barrels,Cider - Dry,Cider,Oud Beersel,7.5,35.547770700636946,3.66,7,0
+762,Wild Dry Cider - Blended With Lambic,Cider - Dry,Cider,Oud Beersel,7.5,35.547770700636946,3.64,7,0
+763,Wild Dry Cider With Birch Leaves,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.53,7,0
+764,Wild Dry Cider With Blackcurrants,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.42,7,0
+765,Wild Dry Cider With Hibiscus,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.52,7,0
+766,Wild Dry Cider With Honey,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.49,7,0
+767,Wild Dry Cider With Lithuanian Grapes,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.5,7,0
+768,Wild Dry Cider With Lithuanian Hops,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.53,7,0
+769,Wild Dry Cider With Quince,Cider - Dry,Cider,Saules Cidery,6.5,35.547770700636946,3.39,7,0
+770,Wild Lion: Methode Push Pop,Sour - Smoothie / Pastry,Sour,Forager Brewery,6.0,35.547770700636946,4.4,34,3
+771,Wildflower IPA,IPA - New England / Hazy,IPA,Ebeltoft Gårdbryggeri,5.9,35.547770700636946,3.73,16,4
+772,Willibald Export,Lager - Dortmunder / Export,Lager,Willibald Farm Brewery,6.5,35.547770700636946,3.75,19,0
+773,Winkle Nectar,Stout - Imperial / Double Pastry,Stout,3 Sons Brewing Co.,14.8,35.547770700636946,4.61,35,1
+774,Winter Wine,Barleywine - Other,Barleywine,Stigbergets Bryggeri,10.0,35.547770700636946,3.8,0,2
+775,Wizard of Ozzie,IPA - Imperial / Double New England / Hazy,IPA,Dois Corvos,7.5,35.547770700636946,3.86,16,4
+776,Wolf & Otter,Barleywine - English,Barleywine,Forager Brewery,11.0,35.547770700636946,4.48,0,1
+777,Wolf Inside,IPA - Triple New England / Hazy,IPA,Spartacus Brewing,9.5,70.0,4.27,16,4
+778,Wonder Wall,Sour - Fruited Berliner Weisse,Sour,Ology Brewing Co,6.0,35.547770700636946,3.84,34,3
+779,World's Best,Stout - Imperial / Double Pastry,Stout,Amager Bryghus,11.0,20.0,3.8,35,1
+780,WüühüüW,Farmhouse Ale - Saison,Farmhouse,DUST Blending,8.8,35.547770700636946,4.17,8,2
+781,Wynona's Big Brown Ale,Brown Ale - American,Brown Ale,Voodoo Brewing Co.,7.5,31.0,3.69,6,2
+782,Yardnarb,Sour - Berliner Weisse,Sour,Sour Cellars,6.0,35.547770700636946,3.84,34,3
+783,YEAR OF THE HAZE CRAZE,Pilsner - Czech / Bohemian,Pilsner,Flying Couch Brewing,4.8,19.0,3.8983141762452136,26,0
+784,YEAR OF THE LAGER,IPA - New England / Hazy,IPA,Flying Couch Brewing,6.66,13.0,3.93,16,4
+785,?photic (aged In Buffalo Trace Bourbon Barrels Batch 2),Stout - Imperial / Double,Stout,Voodoo Brewing Co.,12.3,35.547770700636946,4.16,35,1
